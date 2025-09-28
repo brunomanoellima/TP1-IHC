@@ -1,54 +1,81 @@
-# 🩻 1. Descrição do Sistema
+# 🩻 1. Descrição do Sistema – Pacific Northwest X-Ray Inc. (PNWX)
 
-## 🏢 Sobre a Empresa
-
-A **Pacific Northwest X-Ray Inc. (PNWX)** é uma empresa de **comércio eletrônico especializada em equipamentos de raios-X e acessórios radiológicos**. Desde sua fundação, a companhia atua com foco em oferecer aos clientes uma **ampla variedade de produtos de alta qualidade**, atendendo tanto instituições médicas e clínicas quanto profissionais da área da saúde em todo o mundo 🌍.
-
-💡 **Fatos principais:**
-- 🛒 **E-commerce global** com atuação em diversos países.  
-- 📦 Mais de **6.800 itens ativos** no catálogo online.  
-- 📄 Um site com mais de **900 páginas** de produtos e informações técnicas.  
-- 🩺 Foco em **soluções completas para diagnóstico por imagem**.  
+## 🏷️ Domínio do Sistema
+O **PNWX** pertence ao domínio de **e-commerce especializado no setor de saúde e tecnologia médica**, com foco na venda e distribuição global de equipamentos, peças, acessórios e suprimentos relacionados a **radiologia e diagnóstico por imagem**.
 
 ---
 
-## 🔬 O Que o Sistema Oferece
+## 💻 Contexto de Uso
+A plataforma funciona como um **site de comércio eletrônico acessível via navegador web** (computadores e tablets) e também pode ser utilizada em **dispositivos móveis**.  
+O sistema é projetado para uso em ambientes como:
+- 🏥 **Hospitais e clínicas** que buscam equipamentos médicos.  
+- 🧪 **Laboratórios e centros de diagnóstico por imagem**.  
+- 🩺 **Profissionais autônomos e técnicos radiologistas**.  
 
-O site da PNWX funciona como uma **plataforma completa de compra e consulta de equipamentos radiológicos**, com uma estrutura pensada para facilitar a navegação do usuário e agilizar o processo de aquisição.
-
-Entre os principais produtos e serviços disponíveis estão:
-
-- 🖥️ **Máquinas e sistemas de raios-X** completos  
-- 🧤 **Acessórios de proteção** como óculos, aventais e luvas  
-- 🩻 **Radiografia portátil** e equipamentos móveis  
-- 🧰 **Peças, suprimentos e componentes** para manutenção  
-- 🗄️ **Armários e soluções de armazenamento** para ambientes hospitalares  
-
----
-
-## 🌐 Experiência do Usuário
-
-O site da PNWX foi desenvolvido para ser um **catálogo digital robusto**, oferecendo:
-
-- 🔍 **Busca rápida e filtragem inteligente** de produtos  
-- 🛍️ **Carrinho de compras** simples e intuitivo  
-- 📊 **Informações detalhadas e especificações técnicas** em cada página  
-- 📞 **Suporte especializado** para clientes e empresas  
-- 💳 **Processo de compra seguro** com diversas opções de pagamento  
+**Premissas e restrições:**
+- Exige conexão à internet.  
+- Algumas compras e cotações requerem **cadastro de conta**.  
+- O idioma principal é o **inglês**, o que pode representar uma barreira para usuários iniciantes.
 
 ---
 
 ## 🎯 Objetivo do Sistema
-
-O principal objetivo do sistema é **centralizar a experiência de compra de equipamentos de raios-X** em um único ambiente digital confiável. Com isso, a PNWX busca:
-
-- 🏥 Facilitar o acesso a soluções radiológicas  
-- 💼 Atender instituições de saúde com diferentes demandas e orçamentos  
-- 🔁 Garantir atualizações constantes no catálogo de produtos  
-- 🌎 Expandir sua presença global no mercado de diagnóstico por imagem  
+O objetivo da plataforma **PNWX** é **facilitar a aquisição de equipamentos e acessórios de radiologia** por meio de um ambiente digital robusto, confiável e de fácil navegação.  
+O sistema auxilia profissionais e instituições a:
+- 📦 Encontrar e comparar equipamentos de raios-X.  
+- 💳 Realizar compras online com segurança.  
+- 🔍 Consultar especificações técnicas detalhadas.  
+- 📞 Solicitar orçamentos personalizados e suporte especializado.  
 
 ---
 
-## ✨ Conclusão
+## 👤 Perfil dos Usuários-Alvo
 
-A Pacific Northwest X-Ray Inc. se destaca por unir **tecnologia, praticidade e variedade** em um só lugar. Seu sistema online vai além de um simples e-commerce: ele funciona como um **ecossistema completo de produtos e informações radiológicas**, oferecendo suporte essencial para clínicas, hospitais e profissionais de saúde em todo o mundo. 🩺🌐
+| Usuário                    | Nível de Experiência   | Objetivos Principais                                                |
+|---------------------------|------------------------|--------------------------------------------------------------------|
+| 🏥 **Instituições de saúde**  | Intermediário/Avançado | Equipar clínicas com máquinas e acessórios de radiologia.          |
+| 🧪 **Laboratórios e centros de imagem** | Intermediário         | Comprar equipamentos técnicos e peças de reposição.                |
+| 🩺 **Profissionais autônomos e técnicos** | Básico/Intermediário  | Adquirir ferramentas portáteis, acessórios de proteção e suprimentos. |
+
+---
+
+## 📋 Tarefas Principais do Usuário
+Os principais fluxos e tarefas realizadas no sistema são:
+
+- 🔎 **Pesquisar e filtrar produtos** por categoria, preço ou fabricante.  
+- 📄 **Consultar especificações técnicas detalhadas**.  
+- 🛒 **Adicionar produtos ao carrinho e finalizar a compra**.  
+- ✉️ **Solicitar orçamento personalizado** diretamente pelo site.  
+- 📞 **Contatar o suporte técnico** para dúvidas sobre produtos e manutenção.  
+
+---
+
+## ⚙️ Funcionalidades Principais
+O sistema PNWX oferece um conjunto extenso de funcionalidades voltadas à experiência do usuário:
+
+- 📦 **Catálogo online** com mais de **6.800 itens ativos** e mais de **900 páginas**.  
+- 🔍 **Sistema de busca e filtros avançados** para localizar produtos específicos.  
+- 🛍️ **Carrinho de compras e checkout seguro** com diversas formas de pagamento.  
+- 🧰 **Seção técnica** com informações detalhadas sobre cada produto.  
+- 📞 **Canal de atendimento especializado** para clientes.  
+
+---
+
+## ⚠️ Premissas e Limitações
+- 🌐 Requer conexão à internet estável.  
+- 📱 A experiência pode variar em telas menores (responsividade limitada em alguns casos).  
+- 🔤 Conteúdo em inglês pode dificultar o uso por usuários que não dominam o idioma.  
+
+---
+
+## 🖼️ Imagem Representativa
+
+> **Figura 1 – Página inicial do site Pacific Northwest X-Ray Inc.**
+
+![Página inicial do PNWX](https://www.pnwx.com/images/logo.png)
+
+---
+
+## ✅ Conclusão
+O sistema **Pacific Northwest X-Ray Inc. (PNWX)** funciona como uma plataforma digital especializada em produtos de radiologia, oferecendo um catálogo abrangente, navegação simples e recursos que atendem às necessidades de clínicas, hospitais e profissionais técnicos do setor médico.  
+Ao concentrar todo o processo de busca, comparação, compra e suporte em um único ambiente, a PNWX se consolida como uma solução completa e confiável para o mercado global de equipamentos radiológicos.
