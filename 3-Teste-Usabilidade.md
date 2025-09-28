@@ -76,6 +76,9 @@ Localizar informações sobre prazos ou políticas de envio para qualquer produt
 ### 📧 T10 – Iniciar contato via e-mail
 Localizar o formulário de e-mail (**cgi-bin/e-mail**) e simular o envio de uma consulta sobre um produto (ex.: **X-Ray Grids**).
 
+---
+
+
 
 # 📊 Resultados Individuais
 
