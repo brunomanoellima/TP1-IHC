@@ -21,6 +21,62 @@ Ao final, aplicou-se também o **System Usability Scale (SUS)** para medir a per
 
 ---
 
+## 📝 Descrição das Tarefas
+
+As tarefas abaixo foram definidas para representar cenários reais de uso no site **Pacific Northwest X-Ray Inc. (PNWX)**.  
+Cada participante deveria executar as 10 tarefas em sequência, enquanto eram coletados tempo, erros, pedidos de ajuda e taxa de sucesso.
+
+---
+
+### 🔎 T1 – Encontrar informações de contato
+Localizar os detalhes de contato da Pacific Northwest X-Ray Inc. (telefone, e-mail ou formulário) a partir da página inicial.
+
+---
+
+### 🧵 T2 – Verificar opções de tecido de cortinas de chumbo
+Na página inicial, acessar **Lead Curtains**, escolher a primeira opção e verificar quais opções de tecido estão disponíveis.
+
+---
+
+### 📦 T3 – Buscar placas de mercadorias
+Usar a busca para encontrar **“X-Ray Merchant Boards”** e acessar a página correspondente.
+
+---
+
+### 📐 T4 – Verificar compatibilidade de grades
+Em **Parts > Grids**, localizar informações sobre compatibilidade de **X-Ray Grids** com equipamentos específicos.
+
+---
+
+### 🛠️ T5 – Navegar para ferramentas de resolução
+Em **Accessories > Phantoms**, localizar a seção **“Accreditation, Resolution, Quality, and Test/Alignment Phantoms”**.
+
+---
+
+### 👓 T6 – Encontrar acessórios de proteção ocular
+Navegar até **Accessories > Lead Aprons**, localizar **Surgical Drop-Off’s / OR Aprons** e clicar em **Fast Ship!**.
+
+---
+
+### 🕶️ T7 – Explorar equipamentos de darkroom
+Em **Equipment > DarkEquip**, encontrar informações sobre equipamentos de câmara escura além de **“Silver Recovery Systems”**.
+
+---
+
+### 🧲 T8 – Buscar por marcadores de raio-X
+Usar a busca para **“X-Ray Markers”** e acessar a página de **Marker Accessories**.
+
+---
+
+### 🚚 T9 – Verificar políticas de envio
+Localizar informações sobre prazos ou políticas de envio para qualquer produto (ex.: **“Fastest Shipping Lead Apparel”**).
+
+---
+
+### 📧 T10 – Iniciar contato via e-mail
+Localizar o formulário de e-mail (**cgi-bin/e-mail**) e simular o envio de uma consulta sobre um produto (ex.: **X-Ray Grids**).
+
+
 # 📊 Resultados Individuais
 
 ---
