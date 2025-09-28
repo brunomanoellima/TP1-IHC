@@ -12,8 +12,7 @@ As etapas aplicadas foram:
 
 📌 **Observação importante**:  
 Todas as **evidências visuais (prints e links)** estão organizadas no **Notion da equipe** e podem ser acessadas através do link:  
-👉 [Acessar tabelas de inspeção no Notion]([https://www.notion.so](https://spiky-fact-32a.notion.site/Inspe-o-de-Usabilidade-26ea7e3beb4381e4a5ace94a783b9d44)](https://spiky-fact-32a.notion.site/Inspe-o-de-Usabilidade-C-ntia-Seixas-26ea7e3beb438124b7eec0a3fa0d3034?source=copy_link))  
-
+👉 [Acessar tabelas de inspeção no Notion]([https://www.notion.so](https://spiky-fact-32a.notion.site/Inspe-o-de-Usabilidade-26ea7e3beb4381e4a5ace94a783b9d44)].
 ---
 
 ## 1️⃣ Detecção Individual
