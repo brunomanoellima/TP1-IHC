@@ -181,6 +181,38 @@ Ao final, aplicou-se também o **System Usability Scale (SUS)** para medir a per
 **Média esperada:** < 70 → Classificação: **Péssima usabilidade**
 
 ---
+## 💬 Perguntas Abertas e Fatores de Usabilidade
+| ID Part. | Trecho da Resposta | Fator de Usabilidade |
+|----------|--------------------|-----------------------|
+| P1 | facilita a escolha | Eficiência |
+| P1 | design confuso, fundo azul poluído e falta de clareza | Design Estético e Minimalista |
+| P1 | categorias bem organizadas e busca mais intuitiva | Eficiência / Aprendizado |
+| P2 | de nada | Satisfação (baixa) |
+| P2 | cores e fonte não diferenciam informações | Estética / Eficácia |
+| P2 | tudo, o site tem design horrível | Satisfação (baixa) |
+| P3 | barra de pesquisa evita navegação longa | Eficiência |
+| P3 | interface pouco intuitiva e carregada | Prevenção de Erros / Aprendizado |
+| P3 | deixaria a interface minimalista, com navegação clara | Estética |
+| P4 | não gostei de nada | Satisfação (baixa) |
+| P4 | sistema difícil de mexer | Eficiência |
+| P4 | complicado encontrar produtos ou info | Eficácia |
+| P4 | interface confusa e amadora | Estética |
+| P4 | categorias em linha de texto | Aprendizado |
+| P4 | não tem como saber que é botão | Prevenção de Erros |
+| P5 | experiência não foi positiva | Satisfação (baixa) |
+| P5 | dificuldade em localizar produtos | Eficácia |
+| P5 | tipografia pequena e cores ruins | Estética |
+| P5 | busca cansativa e ineficiente | Eficiência |
+| P5 | filtros e descrições pouco claros | Eficácia / Prevenção de Erros |
+| P6 | gostei da animação inicial | Satisfação |
+| P6 | cores atrapalham leitura | Estética |
+| P6 | mudaria para layout minimalista | Estética |
+| P7 | design entediante, má experiência | Satisfação (baixa) |
+| P7 | precisa repensar visual e estrutura | Eficácia / Estética |
+| P8 | visual difícil de entender | Aprendizado / Estética |
+| P8 | botões pouco visíveis | Prevenção de Erros |
+
+---
 
 # 🔎 Discussão
 - Dificuldades principais em **T2, T5, T6 e T8** confirmam problemas de navegação e poluição visual.  
@@ -192,9 +224,3 @@ Ao final, aplicou-se também o **System Usability Scale (SUS)** para medir a per
 # ✅ Conclusão
 O site **PNWX** apresenta **baixa eficiência e eficácia** em tarefas comuns.  
 A taxa de sucesso foi baixa em tarefas críticas, e o SUS médio (26/100) indica percepção de **péssima usabilidade**.  
-
-🔧 Recomendações:
-- Reestruturar menus e hierarquia de navegação.  
-- Corrigir falhas de contato (formulário de e-mail).  
-- Melhorar clareza visual e adicionar filtros.  
-- Reduzir textos longos e redundantes.  
