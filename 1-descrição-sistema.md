@@ -45,7 +45,7 @@ O sistema permite que profissionais e instituições:
 ## 📋 Tarefas Principais do Usuário
 Os principais fluxos identificados no sistema são:
 
-1. 🔎 **Pesquisar e filtrar produtos** por categoria, preço ou fabricante.  
+1. 🔎 **Pesquisar e filtrar produtos** por categoria.  
 2. 📄 **Consultar especificações técnicas detalhadas**.  
 3. ✉️ **Solicitar orçamento personalizado** para produtos selecionados.  
 4. 📞 **Contatar o suporte técnico** para questões de compra ou manutenção.  
@@ -55,7 +55,7 @@ Os principais fluxos identificados no sistema são:
 ## ⚙️ Funcionalidades Disponíveis
 O sistema PNWX oferece um conjunto de recursos voltados para o setor médico:
 
-- 📦 **Catálogo online** com milhares de itens ativos.  
+- 📦 **Catálogo online** com vários itens ativos.  
 - 🔍 **Sistema de busca e filtros** para localizar produtos específicos.  
 - 🧰 **Seção técnica** com informações detalhadas de cada produto.  
 - 📞 **Canal de atendimento especializado** para suporte e dúvidas.  
