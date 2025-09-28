@@ -131,4 +131,4 @@ As falhas mais recorrentes estão ligadas a:
 As recomendações propostas trazem soluções viáveis que, se implementadas, aproximariam o site PNWX de um padrão de usabilidade mais moderno, confiável e eficiente.  
 
 📌 Evidências completas (prints e tabelas) estão disponíveis no **Notion da equipe**:  
-👉 [Acessar tabelas e prints no Notion](https://www.notion.so)
+👉 [Acessar tabelas e prints no Notion]([https://www.notion.so](https://spiky-fact-32a.notion.site/Inspe-o-de-Usabilidade-26ea7e3beb4381e4a5ace94a783b9d44))
