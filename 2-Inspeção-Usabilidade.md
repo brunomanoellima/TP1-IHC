@@ -11,7 +11,7 @@ As etapas aplicadas foram:
 4. **Lista limpa final** – conjunto de problemas confirmados, com recomendações de correção e benefícios esperados.  
 
 📌 **Observação importante**:  
-Todas as **evidências visuais (prints e links)** estão organizadas no **Notion da equipe** e podem ser acessadas pelo professor através do link:  
+Todas as **evidências visuais (prints e links)** estão organizadas no **Notion da equipe** e podem ser acessadas através do link:  
 👉 [Acessar tabelas de inspeção no Notion](https://www.notion.so)  
 
 ---
