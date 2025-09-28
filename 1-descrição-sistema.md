@@ -1,7 +1,7 @@
 # 🩻 1. Descrição do Sistema – Pacific Northwest X-Ray Inc. (PNWX)
 
 ## 🏷️ Domínio do Sistema
-O **PNWX** pertence ao domínio de **e-commerce especializado no setor de saúde e tecnologia médica**, com foco na venda e distribuição global de equipamentos, peças, acessórios e suprimentos relacionados a **radiologia e diagnóstico por imagem**.
+O **PNWX** pertence ao domínio de **e-commerce especializado no setor de saúde e tecnologia médica**, com foco na venda e distribuição global de equipamentos, peças, acessórios e suprimentos relacionados a **radiologia e diagnóstico por imagem** utilizando seu site como catálogo online exclusivo.
 
 ---
 
