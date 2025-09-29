@@ -19,7 +19,7 @@ O objetivo foi avaliar **eficiência, eficácia e satisfação** no uso do siste
 | P5  | Benedita Marroca | [P5 - Benedita Marroca](./Testes-Usuários/P5-BeneditaMarroca.md) |
 | P6  | Wamberson Pacheco | [P6 - Wamberson Pacheco](./Testes-Usuários/P6-WambersonPacheco.md) |
 | P7  | Sabrina Leal | [P7 - Sabrina Leal](./Testes-Usuários/P7-SabrinaLeal.md) |
-| P8  | Maria Vitória | [P8 - Maria Vitória](./Testes-Usuários/P8-MariaVitoria.md) |
+| P8  | Maria Vitória | [P8 - Maria Vitória](./Testes-Usuários/P8-MariaVitória.md) |
 
 ---
 
