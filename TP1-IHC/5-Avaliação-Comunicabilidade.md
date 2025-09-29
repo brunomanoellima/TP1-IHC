@@ -8,164 +8,90 @@ As etiquetas representam momentos em que o usuário se perdeu, ficou confuso ou 
 
 ---
 
-# 👤 Avaliações Individuais
+# 📋 Observações MAC – Usuário U1 - Joabe
+
+| Part. | Tarefa | Timestamp | Trecho observado                              | Etiqueta MAC          | Interpretação                                               |
+|-------|--------|-----------|-----------------------------------------------|-----------------------|-------------------------------------------------------------|
+| U1    | T1     | 0:23      | Usuário dando zoom                            | Cadê?                 | Usuário necessita dar zoom                                  |
+| U1    | T1     | 0:30      | Usuário dando zoom novamente                  | Cadê?                 | Usuário necessita de zoom para encontrar informação         |
+| U1    | T1     | 0:53      | Ficou procurando a informação na tela         | E agora?              | Usuário não sabe como executar a tarefa                     |
+| U1    | T2     | 1:04      | Dando vários zooms na tela para entender      | Cadê?                 | Usuário não entende o que fazer                             |
+| U1    | T2     | 1:13      | Tentando entender a opção                     | O que é isto?         | Usuário não consegue entender se a opção é a correta        |
+| U1    | T2     | 1:21      | Usuário tentando outra forma                  | Vai de outro jeito    | Usuário percorre outro caminho para concluir a tarefa       |
+| U1    | T2     | 1:26      | Usuário procurando a informação na página     | Cadê?                 | Usuário tenta encontrar o item MRI para concluir a tarefa   |
+| U1    | T2     | 1:32      | Usuário relendo a instrução                   | E agora?              | Usuário tenta entender o que fazer a seguir                 |
+| U1    | T2     | 1:37      | Usuário relendo a instrução                   | E agora?              | Usuário tenta entender o que fazer agora para concluir a tarefa |
+| U1    | T3     | 2:01      | Usuário falando que acha que já está bom      | Para mim está bom...  | Usuário acredita que concluiu a tarefa                      |
+| U1    | T3     | 2:12      | Usuário relendo a instrução                   | Onde estou?           | Usuário verifica se concluiu ou não                         |
+| U1    | T3     | 2:29      | Usuário falando que acha que já está bom      | Para mim está bom...  | Usuário acredita que concluiu a tarefa                      |
+| U1    | T3     | 2:59      | Usuário falando que acha que já está bom      | Para mim está bom...  | Usuário acredita que concluiu a tarefa                      |
+| U1    | T3     | 3:20      | Usuário não entende em que parte está         | Ué, o que é isto?     | Usuário não entende em que parte do sistema está            |
+| U1    | T4     | 3:34      | Usuário relendo a instrução                   | E agora?              | Usuário não sabe o que fazer e olha a tarefa novamente      |
+| U1    | T4     | 3:43      | Usuário com dúvida do resultado               | Por que não funciona? | Usuário não entende o resultado encontrado                  |
+| U1    | T4     | 3:48      | Usuário voltando à página inicial             | Assim não dá          | Usuário voltando à página inicial                           |
+| U1    | T4     | 3:52      | Usuário relendo a instrução                   | E agora?              | Usuário não sabe o que fazer                                |
+| U1    | T4     | 3:59      | Usuário tentando por outra página             | Vai de outro jeito    | Usuário tenta outro caminho                                 |
+| U1    | T4     | 4:16      | Usuário relendo a instrução                   | E agora?              | Usuário não sabe como executar a tarefa                     |
+| U1    | T4     | 4:24      | Usuário voltando à página inicial             | Assim não dá          | Usuário desiste e volta para página inicial                 |
+| U1    | T4     | 4:36      | Usuário falando que acha que já está bom      | Para mim está bom...  | Usuário acredita que concluiu a tarefa                      |
+| U1    | T5     | 5:00      | Usuário relendo a instrução                   | E agora?              | Usuário não sabe o que fazer                                |
+| U1    | T6     | 5:45      | Usuário relendo a instrução                   | E agora?              | Usuário não sabe o que fazer                                |
+| U1    | T6     | 6:07      | Usuário falando que acha que já está bom      | Para mim está bom...  | Usuário acredita que concluiu a tarefa                      |
+| U1    | T7     | 6:30      | Usuário relendo a instrução                   | E agora?              | Usuário não sabe o que fazer                                |
+| U1    | T7     | 6:40      | Usuário tentando por outra página             | Vai de outro jeito    | Usuário tenta encontrar uma forma de resolver a tarefa      |
+| U1    | T7     | 7:07      | Usuário falando que acha que já está bom      | Para mim está bom...  | Usuário acredita que concluiu a tarefa                      |
+| U1    | T8     | 7:39      | Usuário relendo a instrução                   | E agora?              | Usuário não sabe o que fazer                                |
+| U1    | T8     | 8:21      | Usuário falando que acha que já está bom      | Para mim está bom...  | Usuário acredita que concluiu a tarefa                      |
+| U1    | T8     | 8:31      | Usuário relendo a instrução                   | E agora?              | Usuário não sabe exatamente o que fazer                     |
+| U1    | T8     | 8:48      | Usuário voltando à página por que deu errado  | Por que não funciona? | Sistema não respondeu mais ao usuário                       |
+| U1    | T8     | 8:56      | Usuário voltando à página inicial             | Assim não dá          | Usuário tentou do início                                    |
+| U1    | T8     | 9:03      | Usuário voltando à página por que deu errado  | Por que não funciona? | Sistema não respondeu mais ao usuário                       |
+| U1    | T8     | 9:13      | Usuário voltando à página inicial             | Assim não dá          | Usuário tentou do início                                    |
+| U1    | T9     | 9:56      | Usuário procurando a informação na página     | Cadê?                 | Usuário tem dificuldade de encontrar o item desejado        |
+| U1    | T9     | 11:00     | Usuário falando que acha que já está bom      | Para mim está bom...  | Usuário acredita que concluiu a tarefa                      |
+| U1    | T10    | 11:20     | Usuário procurando a informação na página     | Cadê?                 | Usuário tem dificuldade de encontrar o item desejado        |
+
+# 📋 Observações MAC – Usuário U2 - Chyntia
+
+| Part. | Tarefa | Timestamp | Trecho observado                           | Etiqueta MAC | Interpretação                                                   |
+|-------|--------|-----------|--------------------------------------------|--------------|-----------------------------------------------------------------|
+| U2    | T1     | 00:12     | Ficou procurando a informação na tela      | Cadê?        | Achar a informação de contato                                   |
+| U2    | T2     | 00:30     | Ficou procurando a informação na tela      | Cadê?        | Não consegue diferenciar qual a informação relevante            |
+| U2    | T2     | 00:47     | Ficou procurando a informação na tela      | E agora?     | Não consegue encontrar as informações de tecido disponíveis     |
+| U2    | T3     | 01:38     | Demorou para saber se completou a tarefa   | E agora?     | Não sabe se completou a tarefa                                  |
+| U2    | T4     | 02:20     | Ficou procurando a informação na tela      | Cadê?        | Demorou para encontrar a página                                 |
+| U2    | T4     | 02:32     | Demorou para saber se completou a tarefa   | E agora?     | Não sabe se completou a tarefa                                  |
+| U2    | T5     | 03:10     | Ficou procurando a informação na tela      | Cadê?        | Achou difícil achar a página no meio de tantas palavras com letras pequenas |
+| U2    | T5     | 03:37     | Ficou procurando a informação na tela      | Cadê?        | Demorou para encontrar a página do produto                      |
+| U2    | T5     | 04:04     | Demorou para saber se completou a tarefa   | E agora?     | Ficou em dúvida se realmente completou a tarefa                 |
+| U2    | T6     | 04:44     | Ficou procurando a informação na tela      | Cadê?        | Achou difícil achar a página no meio de tantas palavras com letras pequenas |
+| U2    | T6     | 05:09     | Ficou procurando a informação na tela      | Cadê?        | Demorou para encontrar a página do produto                      |
+| U2    | T7     | 05:36     | Ficou procurando a informação na tela      | Cadê?        | Demorou para encontrar a página                                 |
+| U2    | T8     | 06:25     | Demorou para saber se completou a tarefa   | E agora?     | Ficou em dúvida se realmente completou a tarefa                 |
+| U2    | T9     | 06:39     | Ficou procurando a informação na tela      | Cadê?        | Não conseguiu encontrar a informação da tarefa                  |
+| U2    | T9     | 07:07     | Demorou para saber se completou a tarefa   | E agora?     | Ficou em dúvida se realmente completou a tarefa                 |
 
 ---
 
-## 👤 P1 — João Vitor
-| Tarefa | Problema Observado | Etiquetas |
-|--------|--------------------|-----------|
-| T1 | Sem problemas | — |
-| T2 | Errou o item da pesquisa | **E agora?** |
-| T3 | Errou página 2 vezes | **Cadê?** |
-| T4 | Errou mas conseguiu | **E agora?** |
-| T5 | Errou página 2 vezes | **Cadê?** |
-| T6 | Errou 3 vezes e desistiu | **Assim não dá!** |
-| T7 | Errou mas conseguiu | **E agora?** |
-| T8 | Errou mas conseguiu | **E agora?** |
-| T9 | Errou mas conseguiu | **E agora?** |
-| T10 | Não conseguiu realizar (indisponível) | **Por que não funciona?** |
+# 📊 Contagem de Ocorrências – Etiquetas MAC (U1 e U2)
+
+| Etiqueta MAC          | Ocorrências (U1) | Ocorrências (U2) | **Total** | **Tarefas mais afetadas**        |
+|------------------------|------------------|------------------|-----------|----------------------------------|
+| **Cadê?**              | 5                | 7                | **12**    | T1, T2, T4, T5, T6, T9            |
+| **E agora?**           | 8                | 4                | **12**    | T2, T3, T4, T5, T7, T8            |
+| **O que é isto?**      | 2                | 0                | **2**     | T2, T3                            |
+| **Vai de outro jeito** | 2                | 0                | **2**     | T2, T7                            |
+| **Para mim está bom...** | 5              | 0                | **5**     | T3, T4, T6, T7, T8, T9            |
+| **Onde estou?**        | 1                | 0                | **1**     | T3                                |
+| **Ué, o que é isto?**  | 1                | 0                | **1**     | T3                                |
+| **Por que não funciona?** | 2             | 0                | **2**     | T4, T8                            |
+| **Assim não dá**       | 3                | 0                | **3**     | T4, T8                            |
 
 ---
 
-## 👤 P2 — Mildo Castro
-| Tarefa | Problema Observado | Etiquetas |
-|--------|--------------------|-----------|
-| T1 | Concluiu fácil | — |
-| T2 | Precisou de dica para voltar | **E agora?** |
-| T3 | Sem problemas | — |
-| T4 | Conseguiu, mas com dificuldade | **E agora?** |
-| T5 | Conseguiu, mas esforço alto | **E agora?** |
-| T6 | Conseguiu, mas esforço alto | **E agora?** |
-| T7 | Sem observações | — |
-| T8 | Sem observações | — |
-| T9 | Precisou de dica | **E agora?**, **Cadê?** |
-| T10 | Não conseguiu realizar (indisponível) | **Por que não funciona?** |
+## ✅ Resumo
 
----
+- As etiquetas mais frequentes foram **Cadê?** e **E agora?**, com **12 ocorrências cada**.  
+- O usuário **U1 apresentou maior variedade de etiquetas** (8 tipos diferentes).  
+- O usuário **U2 concentrou suas dificuldades em localizar informações e concluir tarefas** (*Cadê?* e *E agora?*).  
 
-## 👤 P3 — Josiel Santos
-| Tarefa | Problema Observado | Etiquetas |
-|--------|--------------------|-----------|
-| T1 | Precisou de dica | **E agora?** |
-| T2 | Demorou muito para achar | **Cadê?** |
-| T3 | Errou páginas antes de achar | **Cadê?** |
-| T4 | Errou 1 vez mas conseguiu | **E agora?** |
-| T5 | Conseguiu com esforço | **E agora?** |
-| T6 | Demorou, errou, mas conseguiu | **E agora?** |
-| T7 | Demorou muito | **E agora?** |
-| T8 | Precisou de dica | **Assim não dá!** |
-| T9 | Errou página | **Cadê?** |
-| T10 | Não conseguiu (indisponível) | **Por que não funciona?** |
-
----
-
-## 👤 P4 — Ana Paula
-| Tarefa | Problema Observado | Etiquetas |
-|--------|--------------------|-----------|
-| T1 | Sem dificuldades | — |
-| T2 | Precisou de dica | **E agora?** |
-| T3 | Fácil | — |
-| T4 | Grande dificuldade | **E agora?** |
-| T5 | Precisou de dica, muito difícil | **Assim não dá!** |
-| T6 | Precisou de dica, desistiu depois | **Assim não dá!** |
-| T7 | Pequena dificuldade | **E agora?** |
-| T8 | Fácil | — |
-| T9 | Fácil | — |
-| T10 | Indisponível | **Por que não funciona?** |
-
----
-
-## 👤 P5 — Benedita Marroca
-| Tarefa | Problema Observado | Etiquetas |
-|--------|--------------------|-----------|
-| T1 | Fácil | — |
-| T2 | Leve dificuldade | **E agora?** |
-| T3 | Fácil | — |
-| T4 | Entrou errado antes | **Cadê?** |
-| T5 | Precisou de ajuda | **Assim não dá!** |
-| T6 | Leve dificuldade | **E agora?** |
-| T7 | Fácil | — |
-| T8 | Fácil | — |
-| T9 | Pouca dificuldade | **E agora?** |
-| T10 | Não concluiu | **Por que não funciona?** |
-
----
-
-## 👤 P6 — Wamberson Pacheco
-| Tarefa | Problema Observado | Etiquetas |
-|--------|--------------------|-----------|
-| T1 | Fácil | — |
-| T2 | Botão home escondido | **Cadê?** |
-| T3 | Visual confuso | **O que é isso?** |
-| T4 | Textos longos | **O que é isso?** |
-| T5 | Links mal destacados | **Cadê?** |
-| T6 | Precisou de dica, muito esforço | **Assim não dá!** |
-| T7 | Dificuldade visual | **O que é isso?** |
-| T8 | Demorou muito | **E agora?** |
-| T9 | Precisou de dica | **E agora?** |
-| T10 | Página inexistente | **Por que não funciona?** |
-
----
-
-## 👤 P7 — Sabrina Leal
-| Tarefa | Problema Observado | Etiquetas |
-|--------|--------------------|-----------|
-| T1 | Fácil | — |
-| T2 | Precisou de dica | **E agora?** |
-| T3 | Muitos textos | **O que é isso?** |
-| T4 | Fácil | — |
-| T5 | Fácil | — |
-| T6 | Excesso de texto, falha | **Assim não dá!** |
-| T7 | Precisou de dica | **E agora?** |
-| T8 | Precisou de dica | **E agora?** |
-| T9 | Tempo alto | **E agora?** |
-| T10 | Não conseguiu enviar | **Por que não funciona?** |
-
----
-
-## 👤 P8 — Maria Vitória
-| Tarefa | Problema Observado | Etiquetas |
-|--------|--------------------|-----------|
-| T1 | Fácil, achou no rodapé | — |
-| T2 | Ícone confuso, excesso de info | **O que é isso?**, **Cadê?** |
-| T3 | Fácil | — |
-| T4 | Relativamente fácil | — |
-| T5 | Demorou sem filtro | **Cadê?** |
-| T6 | Demorou mesmo com dica | **Assim não dá!** |
-| T7 | Muitas opções | **E agora?** |
-| T8 | Demorou por excesso de itens | **Cadê?** |
-| T9 | Fácil | — |
-| T10 | Botão não funcionou | **Por que não funciona?** |
-
----
-
-# 📊 Consolidação Geral das Etiquetas
-
-| Etiqueta | Quantidade de Ocorrências |
-|----------|----------------------------|
-| **E agora?** | 21 |
-| **Cadê?** | 11 |
-| **Assim não dá!** | 7 |
-| **Por que não funciona?** | 8 |
-| **O que é isso?** | 5 |
-| **— (sem problemas)** | 18 |
-
----
-
-## 🔎 Discussão
-- A etiqueta mais recorrente foi **"E agora?"**, mostrando que os usuários constantemente **não sabiam qual era o próximo passo**.  
-- **"Cadê?"** também apareceu bastante, reforçando problemas de **visibilidade de elementos importantes** (botões, links, categorias).  
-- **"Assim não dá!"** e **"Por que não funciona?"** revelam **frustrações sérias**, principalmente em tarefas críticas (T6 e T10).  
-- Poucas vezes os usuários ficaram confusos com **"O que é isso?"**, mas sempre relacionado a **excesso de texto e má distinção de elementos visuais**.  
-
----
-
-## ✅ Conclusão
-O sistema falhou em **comunicar suas intenções** e orientar o usuário em tarefas básicas.  
-A análise de comunicabilidade confirma os achados dos testes de usabilidade:  
-- **Problemas de rotulagem e feedback.**  
-- **Excesso de texto e poluição visual.**  
-- **Falhas críticas (ex: botão de e-mail não funcional).**
-
-Esses resultados reforçam a necessidade de **redesenho da interface** com foco em **clareza, visibilidade e consistência**.
