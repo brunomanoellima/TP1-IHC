@@ -115,7 +115,8 @@ As 10 tarefas aplicadas aos usuários foram:
 ## 🔎 Discussão
 - **T2, T5, T6 e T8** concentraram dificuldades, ligadas a excesso de texto, falta de filtros e navegação pouco clara.  
 - **T10 foi falha crítica**: confirma o defeito **C-08** identificado na inspeção (links de e-mail quebrados).  
-- O **SUS médio (24,5/100)** reforça a percepção de **péssima usabilidade**, consistente com as respostas abertas.  
+- O **SUS médio (≈27/100)** reforça a percepção de **péssima usabilidade**, consistente com as respostas abertas.  
+- Nenhum usuário avaliou o sistema próximo da faixa de aceitabilidade (≥70), o que indica necessidade urgente de redesign da interface e melhoria na experiência geral.
 
 ---
 
