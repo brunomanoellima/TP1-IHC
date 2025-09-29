@@ -66,7 +66,7 @@ O sistema PNWX oferece um conjunto de recursos voltados para o setor médico:
 
 > **Figura 1 – Página inicial do site Pacific Northwest X-Ray Inc.**
 
-![Imagem da Página Inicial do Site](Imagens/Outras/telainicial.png)
+![Imagem da Página Inicial do Site](../Imagens/Outras/telainicial.png)
 
 
 ---
