@@ -41,13 +41,12 @@ Os resultados foram consolidados em **gráficos** e comparados com o **benchmark
 
 ## 🧩 Interpretação Contextualizada
 
-- **Atratividade**: Os usuários consideraram o sistema pouco atrativo, com relatos de **frustração e insatisfação**, reforçando a baixa aceitação geral.  
-- **Clareza**: Houve forte percepção de **confusão visual e dificuldade de navegação**. Muitos não souberam diferenciar botões de textos, o que indica problemas sérios de clareza.  
-- **Eficiência**: A experiência foi considerada **ineficiente e burocrática**. As tarefas exigiram esforço extra e tempo elevado, com falhas frequentes na execução.  
-- **Confiabilidade**: O sistema **não transmitiu segurança**; links quebrados, ausência de feedback e mensagens de erro dificultaram a confiança do usuário.  
-- **Estímulo**: Em vez de motivador, o sistema foi percebido como **desinteressante e cansativo**, sem engajamento positivo durante as interações.  
-- **Novidade**: O design foi avaliado como **antiquado e pouco inovador**, não trazendo sensação de modernidade ou diferenciação em relação a outros sistemas.  
-
+- **Atratividade**: Classificada como "Ruim" no benchmark, refletindo a frustração e a baixa aceitação geral relatada pelos usuários.
+- **Transparência**: Também avaliada como "Ruim", o que valida a percepção de confusão visual e dificuldade de navegação no sistema.
+- **Eficiência**: A nota "Ruim" confirma que a experiência foi ineficiente, exigindo esforço e tempo elevados para realizar as tarefas.
+- **Controlo**: A classificação "Ruim" reforça que o sistema não transmitiu segurança ou confiabilidade, minando a confiança do usuário.
+- **Estimulação**: Avaliada como "Ruim", a interação foi percebida como desinteressante e cansativa, sem gerar engajamento.
+- **Inovação**: Ficou na pior faixa de classificação ("Muito Ruim" / "Lower Border"), confirmando a percepção de um design antiquado e pouco moderno.
 
 
 ---
@@ -68,11 +67,10 @@ Os resultados detalhados de cada participante estão disponíveis na pasta:
 ---
 
 ## ✅ Conclusão
-O UEQ reforça os achados do teste de usabilidade, indicando que:
+O benchmark do UEQ quantifica os problemas de usabilidade, indicando que:
 
-- **Pontos positivos**: Poucos aspectos foram percebidos de forma razoável, como a presença de algumas funcionalidades técnicas úteis e a possibilidade de concluir certas tarefas após esforço.  
-- **Pontos negativos**: Predominaram críticas em relação à **baixa clareza visual**, **ineficiência no fluxo de navegação**, **falta de confiabilidade** (links quebrados e ausência de feedback), além de uma **experiência pouco atrativa e desmotivadora**.  
-- **Correlação com tarefas críticas**: As maiores dificuldades do UEQ se alinham às tarefas mais problemáticas no teste de usabilidade, especialmente em **buscar informações relevantes (T2, T4)** e **realizar ações críticas como envio de e-mail ou finalizar processos (T6, T10)**.  
+- **Pontos positivos**: Nenhum aspecto foi avaliado positivamente. Todas as dimensões do sistema ficaram abaixo da média do benchmark internacional.
+- **Pontos negativos**: Todas as dimensões foram classificadas entre "Ruim" e "Muito Ruim". Os resultados criticam severamente a falta de Inovação, Atratividade e Eficiência do sistema.
+- **Correlação com tarefas críticas**: As baixas pontuações do UEQ se alinham às dificuldades observadas nos testes, especialmente em tarefas de busca (T2, T4) e finalização de processos (T6, T10).
 
-Em conjunto, os resultados confirmam que o sistema **possui falhas severas de usabilidade e experiência**, principalmente em **eficiência, clareza e estímulo**, o que compromete a satisfação geral dos usuários.  
-
+Em conjunto, os resultados confirmam que o sistema possui falhas severas em todas as dimensões da experiência do usuário, o que compromete diretamente a satisfação e a eficácia de seus usuários.
