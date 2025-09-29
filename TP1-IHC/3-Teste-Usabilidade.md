@@ -63,14 +63,14 @@ As 10 tarefas aplicadas aos usuários foram:
 
 | Participante | SUS (0–100) |
 |--------------|-------------|
-| P1 – João Vitor            | — (pendente) |
-| P2 – Mildo Castro | — (pendente) |
-| P3 – Josiel Santos | — (pendente) |
-| P4 – Ana Paula             | 25,0 |
-| P5 – Benedita Marroca      | 25,0 |
-| P6 – Wamberson Pacheco     | 22,5 |
-| P7 – Sabrina Leal          | 17,5 |
-| P8 – Maria Vitória         | 32,5 |
+| P1 – João Vitor | 17,5 |
+| P2 – Mildo Castro | 30,0 |
+| P3 – Josiel Santos | 37,5 |
+| P4 – Ana Paula | 25,0 |
+| P5 – Benedita Marroca | 25,0 |
+| P6 – Wamberson Pacheco | 22,5 |
+| P7 – Sabrina Leal | 17,5 |
+| P8 – Maria Vitória | 32,5 |
 
 📊 **Média parcial (5 usuários):** 24,5  
 ➡️ **Muito abaixo de 70 → péssima usabilidade**.  
