@@ -22,5 +22,10 @@
 
 ---
 
-## ⚠️ Faltando
-- Respostas das perguntas abertas (3 obrigatórias).
+## ❔ Perguntas Abertas
+1. O que você mais gostou? Por quê?
+- O site não atendeu às minhas expectativas.
+2. O que mais dificultou o uso? Em que momento?
+- O design não é atraente e não proporciona uma boa experiência — senti desconforto ao navegar.
+3. Se pudesse mudar uma coisa, o que mudaria?
+- Para mim, seria necessário repensar completamente o site, desde o visual até a estrutura.
