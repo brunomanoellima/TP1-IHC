@@ -13,7 +13,7 @@ O objetivo foi avaliar **eficiência, eficácia e satisfação** no uso do siste
 | ID  | Nome | 📂 Link para pasta |
 |-----|--------------------------|--------------------|
 | P1  | João Vitor | [P1 - João Vitor](./Testes-Usuários/P1-JoaoVitor.md) |
-| P2  | Mildo | [P2 - Mildo Castro](./Testes-Usuários/P2-MildoCastro.md) |
+| P2  | Mildo Castro | [P2 - Mildo Castro](./Testes-Usuários/P2-MildoCastro.md) |
 | P3  | Josiel Santos | [P3 - Josiel Santos](./Testes-Usuários/P3-JosielSantos.md) |
 | P4  | Ana Paula | [P4 - Ana Paula](./Testes-Usuários/P4-AnaPaula.md) |
 | P5  | Benedita Marroca | [P5 - Benedita Marroca](./Testes-Usuários/P5-BeneditaMarroca.md) |
