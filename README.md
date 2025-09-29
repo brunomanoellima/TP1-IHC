@@ -138,10 +138,15 @@ Arquivos individuais em `Imagens/User Experience Questionnaire (UEQ)/`:
 # 🗣️ 5. Avaliação de Comunicabilidade
 Aplicação das **etiquetas MAC** (Clarisse de Souza) em dois usuários (exemplos completos no relatório):
 
+## 🌐 Link Para os Videos no Youtube
+
+#### 👉 [Mac Chyntia](https://youtu.be/AwKeTVo3qsE).
+#### 👉 [Mac Joabe](https://youtu.be/87PfPbkFkGA).
+
 - Etiquetas mais frequentes: **Cadê?** e **E agora?** (12 ocorrências cada).  
 - U1 apresentou maior variedade de etiquetas (8 tipos).  
 - U2 concentrou dificuldades em **localização** e **conclusão de tarefas**.
 
-Tabelas completas em `Testes-Usuários/` (seções MAC).
+Tabelas completas em [Testes-Usuários](.TP1-IHC/Testes-Usuários) (seções MAC).
 
 ---
