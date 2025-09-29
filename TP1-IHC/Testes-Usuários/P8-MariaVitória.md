@@ -12,7 +12,7 @@
 | T7 | 46s | ✔ | 1 | 0 | 0 | Muitas opções |
 | T8 | 53s | ✔ | 1 | 1 | 0 | Demorou por excesso de itens |
 | T9 | 47s | ✔ | 1 | 0 | 0 | Encontrou facilmente |
-| T10 | 1m07s | ✘ | 5 | 0 | 0 | Botão não funcionou |
+| T10 | 1m07s | ❌ | 5 | 0 | 0 | Botão não funcionou |
 
 ## 📈 SUS
 ✔ **32,5**
