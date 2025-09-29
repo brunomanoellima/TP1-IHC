@@ -13,8 +13,8 @@ O objetivo foi avaliar **eficiência, eficácia e satisfação** no uso do siste
 | ID  | Nome | 📂 Link para pasta |
 |-----|--------------------------|--------------------|
 | P1  | João Vitor | [P1 - João Vitor](./Testes-Usuários/P1-JoaoVitor.md) |
-| P2  | Chyntia Freitas | [P2 - Chyntia Freitas Prestes](./Testes-Usuários/P2-ChyntiaFreitas.md) |
-| P3  | Josiel Santos | [P3 - Josiel Santos Medeiro](./Testes-Usuários/P3-JosielSantos.md) |
+| P2  | Chyntia Freitas | [P2 - Chyntia Freitas](./Testes-Usuários/P2-ChyntiaFreitas.md) |
+| P3  | Josiel Santos | [P3 - Josiel Santos](./Testes-Usuários/P3-JosielSantos.md) |
 | P4  | Ana Paula | [P4 - Ana Paula](./Testes-Usuários/P4-AnaPaula.md) |
 | P5  | Benedita Marroca | [P5 - Benedita Marroca](./Testes-Usuários/P5-BeneditaMarroca.md) |
 | P6  | Wamberson Pacheco | [P6 - Wamberson Pacheco](./Testes-Usuários/P6-WambersonPacheco.md) |
