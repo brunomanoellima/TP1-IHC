@@ -41,7 +41,7 @@ As 10 tarefas aplicadas aos usuários foram:
 
 ## 📊 Consolidação Geral (T1–T10)
 
-| Tarefa | ✔ Sucesso | ! Com Ajuda | ✘ Falha | ⏱️ Tempo Médio | 🔎 Observações |
+| Tarefa | ✅ Sucesso | ❗ Com Ajuda | ❌ Falha | ⏱️ Tempo Médio | 🔎 Observações |
 |--------|-----------|--------------|---------|----------------|----------------|
 | T1 | 7/8 | 1/8 | 0/8 | ~20s | Fácil, contato no rodapé |
 | T2 | 5/8 | 2/8 | 1/8 | ~1m20s | Dificuldade por poluição visual |
