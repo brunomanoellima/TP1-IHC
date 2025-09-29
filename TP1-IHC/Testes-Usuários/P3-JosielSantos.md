@@ -23,4 +23,6 @@
 ---
 
 ## ⚠️ Faltando
-- Respostas das perguntas abertas (3 obrigatórias).
+1. Da barra de pesquisa, pq não é necessário procurar no menu extenso o eu procuro 
+2. A interface pouco intuitiva, muito carregada, não sei o que é botão e o que não é.
+3. Deixaria a interface minimalista, poucas informações, e uma barra de navegação apresentável, mostrando que realmente é um botão
