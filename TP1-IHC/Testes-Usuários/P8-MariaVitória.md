@@ -30,6 +30,7 @@
 2. O que mais dificultou o uso? Em que momento?
 
 Estar em inglês e não apresentar botões fáceis de ver, ao fazer a tarefa. 
+
 3. Se pudesse mudar uma coisa, o que mudaria? 
 
 Mudaria o visual do site. 
