@@ -11,12 +11,11 @@ Os resultados foram consolidados em **gráficos** e comparados com o **benchmark
 
 ## 📊 Gráficos e Benchmark
 
-### ✅ Gráfico Geral Consolidado
+### ✅ Gráfico Geral 
 ![Gráfico Geral](../Imagens/Outras/PerfilGeralUEQ.png)
 > **Figura 2 – Perfil consolidado das 6 dimensões do UEQ.**
 
-- Mostra a **média dos participantes (P1–P8)** em cada escala do questionário.  
-- É possível observar que todas as dimensões ficaram **abaixo do ponto neutro (0)**, indicando percepção negativa do sistema.  
+- O gráfico mostra que, em relação à meta (barras vermelhas), todos os critérios avaliados estão com um desempenho negativo (barras cinzas). A Inovação é a área com o resultado menos negativo (cerca de -1), enquanto as outras cinco áreas apresentam um desempenho significativamente pior (próximo de -2).
 
 ---
 
@@ -29,6 +28,12 @@ Os resultados foram consolidados em **gráficos** e comparados com o **benchmark
   - **entre -0,8 e +0,8** → considerado **médio/aceitável**.  
   - **< -0,8** → considerado **ruim/muito ruim**.  
 - Neste estudo, todas as dimensões ficaram na faixa de **ruim/muito ruim**, reforçando os problemas de usabilidade.  
+
+### 📊 Gráfico Avaliações de Importância
+
+![Gráfico Avaliações de Importância ](../Imagens/Outras/RatingsUQL.png)
+> **Figura 4 – Comparação das Avaliações consideradas as mais importantes.**
+- 
 
 ---
 
