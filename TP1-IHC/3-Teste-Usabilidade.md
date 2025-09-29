@@ -64,8 +64,8 @@ As 10 tarefas aplicadas aos usuários foram:
 | Participante | SUS (0–100) |
 |--------------|-------------|
 | P1 – João Vitor            | — (pendente) |
-| P2 – Chyntia Freitas Prestes | — (pendente) |
-| P3 – Josiel Santos Medeiro | — (pendente) |
+| P2 – Chyntia Freitas | — (pendente) |
+| P3 – Josiel Santos | — (pendente) |
 | P4 – Ana Paula             | 25,0 |
 | P5 – Benedita Marroca      | 25,0 |
 | P6 – Wamberson Pacheco     | 22,5 |
