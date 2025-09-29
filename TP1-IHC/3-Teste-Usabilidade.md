@@ -11,8 +11,8 @@ Ao final, aplicou-se também o **System Usability Scale (SUS)** para medir a per
 | ID  | Nome                     |
 |-----|--------------------------|
 | P1  | João Vitor               |
-| P2  | Chyntia Freitas Prestes  |
-| P3  | Josiel Santos Medeiro    |
+| P2  | Chyntia Freitas  |
+| P3  | Josiel Santos    |
 | P4  | Ana Paula                |
 | P5  | Benedita Marroca         |
 | P6  | Wamberson Pacheco        |
