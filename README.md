@@ -6,11 +6,11 @@
 
 ## 📚 Sumário
 - [1. Descrição do Sistema](./TP1-IHC/1-Descrição-Sistema.md)
-- [2. Inspeção de Usabilidade](./TP1-IHC/Testes-Usu%C3%A1rios/2-Inspe%C3%A7%C3%A3o-Usabilidade.md)
-- [3. Teste de Usabilidade](./TP1-IHC/Testes-Usu%C3%A1rios/3-Teste-Usabilidade.md)
-- [4. Avaliação de UX (UEQ)](./TP1-IHC/Testes-Usu%C3%A1rios/4-Avalia%C3%A7%C3%A3o-UX.md)
-- [5. Avaliação de Comunicabilidade (MAC)](./TP1-IHC/Testes-Usu%C3%A1rios/5-Avalia%C3%A7%C3%A3o-Comunicabilidade.md)
-- [6. Conclusões](./TP1-IHC/Testes-Usu%C3%A1rios/6-Conclus%C3%B5es.md)
+- [2. Inspeção de Usabilidade](./TP1-IHC/2-Inspeção-Usabilidade.md)
+- [3. Teste de Usabilidade](./TP1-IHC/3-Teste-Usabilidade.md)
+- [4. Avaliação de UX (UEQ)](./TP1-IHC/4-Avaliação-UX.md)
+- [5. Avaliação de Comunicabilidade (MAC)](./TP1-IHC/5-Avaliação-Comunicabilidade.md)
+- [6. Conclusões](./TP1-IHC/6-Conclusões.md)
 
 ---
 
