@@ -12,7 +12,7 @@ Os resultados foram consolidados em **gráficos** e comparados com o **benchmark
 ## 📊 Gráficos e Benchmark
 
 ### ✅ Gráfico Geral Consolidado
-![Gráfico Geral](Imagens/User Experience Questionnaire(UEQ)GraficoGeral.png)  
+![Gráfico Geral](Imagens/UserExperienceQuestionnaireUEQ/GraficoGeral.png)  
 > **Figura 2 – Perfil consolidado das 6 dimensões do UEQ.**
 
 - Mostra a **média dos participantes (P1–P8)** em cada escala do questionário.  
@@ -21,7 +21,7 @@ Os resultados foram consolidados em **gráficos** e comparados com o **benchmark
 ---
 
 ### 📈 Benchmark por Dimensão
-![Benchmark por Dimensão](Imagens/User%20Experience%20Questionnaire(UEQ)/Benchmark%20por%20dimensão.png)  
+![Benchmark por Dimensão](Imagens/UserExperienceQuestionnaireUEQ/Benchmarkpordimensão.png)  
 > **Figura 3 – Comparação das médias do sistema com o benchmark internacional do UEQ.**
 
 - As **linhas de referência** indicam a escala de classificação:  
