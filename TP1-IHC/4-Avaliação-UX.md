@@ -21,7 +21,7 @@ Os resultados foram consolidados em **gráficos** e comparados com o **benchmark
 ---
 
 ### 📈 Benchmark por Dimensão
-![Benchmark por Dimensão](../Imagens/UserExperienceQuestionnaireUEQ/BenchmarkUEQ.png)
+![Benchmark por Dimensão](../Imagens/Outras/BenchmarkUEQ.png)
 > **Figura 3 – Comparação das médias do sistema com o benchmark internacional do UEQ.**
 
 - As **linhas de referência** indicam a escala de classificação:  
