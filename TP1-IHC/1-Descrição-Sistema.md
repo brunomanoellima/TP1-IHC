@@ -62,11 +62,12 @@ O sistema PNWX oferece um conjunto de recursos voltados para o setor médico:
 
 ---
 
-## 🖼️ Imagem Representativa
+## 🖼️ Imagem Representativa  
 
-> **Figura 1 – Logotipo do site Pacific Northwest X-Ray Inc.**
+> **Figura 1 – Página inicial do site Pacific Northwest X-Ray Inc.**
 
 ![Imagem da Página Inicial do Site](Imagens/Outras/telainicial.png)
+
 
 ---
 
