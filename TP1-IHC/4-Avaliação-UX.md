@@ -33,7 +33,7 @@ Os resultados foram consolidados em **gráficos** e comparados com o **benchmark
 
 ## 📂 Planilhas UEQ
 Os resultados detalhados de cada participante estão disponíveis na pasta:  
-[User Experience Questionnaire (UEQ)](../Imagens/User%20Experience%20Questionnaire).
+[User Experience Questionnaire (UEQ)](./Imagens/UserExperienceQuestionnaireUEQ).
 
 - João Vitor – `Joao_UEQ.jpg`  
 - Mildo Castro – `Mildo_UEQ.jpg`  
