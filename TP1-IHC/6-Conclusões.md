@@ -50,22 +50,22 @@
 
 # Cintia Seixas
 ## 🔹 Desafios enfrentados nas quatro avaliações
-- Um dos pontos mais complicados foi manter a organização entre as etapas, já que às vezes surgia confusão sobre quem faria o quê.
-- A comunicação nem sempre foi clara, o que gerou alguns retrabalhos.
-- O sistema analisado também não ajudou muito: a interface bagunçada pedia mais esforço pra entender e executar as tarefas.
-- Em alguns momentos, a quantidade de dados acabava sobrecarregando e dificultava enxergar o que realmente era mais relevante.
+- Um dos pontos mais complicados foi **manter a organização entre as etapas**, já que às vezes surgia confusão sobre quem faria o quê.
+- A comunicação nem sempre foi clara, o que gerou alguns **retrabalhos**.
+- O sistema analisado também não ajudou muito: a interface bagunçada pedia **mais esforço** pra entender e executar as tarefas.
+- Em alguns momentos, a **quantidade de dados acabava sobrecarregando** e dificultava enxergar o que realmente era mais relevante.
 
 ## 🔹 Lições aprendidas sobre métodos e ferramentas
-- Vi que a preparação e o planejamento inicial fazem toda a diferença para evitar problemas durante os testes.
-- Métodos simples, quando bem aplicados, já ajudam bastante a organizar erros, tempos e percepções.
-- Percebi também que usar diferentes técnicas de avaliação dá uma visão mais completa do sistema, cada uma trazendo insights diferentes.
-- A consistência na forma de registrar as informações facilita muito quando chega a hora de analisar e comparar resultados.
+- Vi que a **preparação** e o **planejamento inicial** fazem toda a diferença para evitar problemas durante os testes.
+- Métodos simples, quando bem aplicados, já ajudam bastante a **organizar erros**, tempos e percepções.
+- Percebi também que usar **diferentes técnicas de avaliação** dá uma visão mais completa do sistema, cada uma trazendo insights diferentes.
+- A consistência na forma de **registrar as informações** facilita muito quando chega a hora de analisar e comparar resultados.
 
 ## 🔹 Como o trabalho prático contribuiu para minhas habilidades em IHC
-- Passei a ter uma visão mais prática de como avaliar a experiência do usuário e identificar pontos de melhoria.
-- Ganhei confiança em aplicar métodos de avaliação e interpretar os resultados de forma mais crítica.
-- O processo mostrou, na prática, a importância de interfaces claras e bem estruturadas para reduzir erros e frustrações do usuário.
-- Trabalhar em grupo, mesmo com os desafios de organização, me ajudou a melhorar minha comunicação e a colaborar melhor em projetos da área de IHC.
+- Passei a ter uma **visão mais prática** de como avaliar a experiência do usuário e identificar pontos de melhoria.
+- Ganhei confiança em **aplicar métodos de avaliação** e **interpretar os resultados** de forma mais crítica.
+- O processo mostrou, na prática, a **importância de interfaces claras** e **bem estruturadas** para reduzir erros e frustrações do usuário.
+- Trabalhar em grupo, mesmo com os desafios de organização, me ajudou a **melhorar minha comunicação** e a **colaborar melhor** em projetos da área de IHC.
 
 ---
 ---
