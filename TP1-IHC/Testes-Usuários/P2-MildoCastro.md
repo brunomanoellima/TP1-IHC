@@ -22,5 +22,10 @@
 
 ---
 
-## ⚠️ Faltando
-- Respostas das perguntas abertas (3 obrigatórias).
+## ❔Perguntas Abertas
+1. O que você mais gostou? Por quê?
+- De nada, o sistema é bem difícil de mexer.
+2. O que mais dificultou o uso? Em que momento?
+- As cores e fonte não da diferença nas informações.
+3. Se pudesse mudar uma coisa, o que mudaria?
+Tudo, o site tem um design horrivel.
