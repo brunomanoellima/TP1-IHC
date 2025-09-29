@@ -6,6 +6,11 @@ O objetivo foi identificar **falhas de comunicação entre sistema e usuário**,
 
 As etiquetas representam momentos em que o usuário se perdeu, ficou confuso ou não entendeu como interagir com o sistema.  
 
+## 🌐 Link Para os Videos no Youtube
+
+#### 👉 [Mac Chyntia](https://youtu.be/AwKeTVo3qsE).
+
+#### 👉 [Mac Joabe](https://youtu.be/87PfPbkFkGA).
 ---
 
 # 📋 Observações MAC – Usuário U1 - Joabe
