@@ -23,4 +23,13 @@
 ---
 
 ## ⚠️ Faltando
-- Respostas das perguntas abertas (3 obrigatórias).
+- O que você mais gostou? Por quê?
+
+ Nada, visual difícil de entender. 
+
+- O que mais dificultou o uso? Em que momento?
+
+Estar em inglês e não apresentar botões fáceis de ver, ao fazer a tarefa. 
+- Se pudesse mudar uma coisa, o que mudaria? 
+
+Mudaria o visual do site. 
