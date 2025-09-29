@@ -22,7 +22,7 @@
 
 ---
 
-##❔Perguntas Abertas
+## ❔Perguntas Abertas
 1. O que você mais gostou? Por quê?
 - Gostei da lista de produtos já na página inicial e das opções de cores e tamanhos dos aventais, isso facilita a escolha.
 2. O que mais dificultou o uso? Em que momento?
