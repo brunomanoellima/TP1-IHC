@@ -1,4 +1,4 @@
-# 👤 Teste de Usabilidade — P2 Chyntia Freitas
+# 👤 Teste de Usabilidade — P2 Mildo Castro
 
 ## 📊 Resultados das Tarefas
 | Tarefa | Tempo | Resultado | Dificuldade | Erros | Ajuda | Observações |
