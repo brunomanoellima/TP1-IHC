@@ -59,7 +59,7 @@
 
 ## 🔹 Lições aprendidas sobre métodos e ferramentas
 - Compreendi a importância de **manter consistência na forma de registrar dados** para facilitar comparações e análises.  
-- O uso de ferramentas digitais (GitHub, Notion, tabelas em markdown) se mostrou essencial para **organizar o trabalho em equipe**.  
+- O uso de ferramentas digitais (GitHub, Notion, ChatGPT para economizar tempo em tabelas em markdown) se mostrou essencial para **organizar o trabalho em equipe**.  
 - Percebi que métodos de avaliação distintos (SUS, UEQ, AC) são **complementares** e, juntos, oferecem uma visão robusta.  
 - Aprendi a valorizar o processo iterativo: **coletar, revisar e ajustar** sempre que necessário.  
 
