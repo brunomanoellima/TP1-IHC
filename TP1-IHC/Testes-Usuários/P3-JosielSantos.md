@@ -23,6 +23,9 @@
 ---
 
 ## ⚠️ Faltando
-1. Da barra de pesquisa, pq não é necessário procurar no menu extenso o eu procuro 
-2. A interface pouco intuitiva, muito carregada, não sei o que é botão e o que não é.
-3. Deixaria a interface minimalista, poucas informações, e uma barra de navegação apresentável, mostrando que realmente é um botão
+1. O que você mais gostou? Por quê?
+- Da barra de pesquisa, pq não é necessário procurar no menu extenso o eu procuro 
+2. O que mais dificultou o uso? Em que momento?
+- A interface pouco intuitiva, muito carregada, não sei o que é botão e o que não é.
+3. Se pudesse mudar uma coisa, o que mudaria?
+- Deixaria a interface minimalista, poucas informações, e uma barra de navegação apresentável, mostrando que realmente é um botão
