@@ -147,6 +147,6 @@ Aplicação das **etiquetas MAC** (Clarisse de Souza) em dois usuários (exemplo
 - U1 apresentou maior variedade de etiquetas (8 tipos).  
 - U2 concentrou dificuldades em **localização** e **conclusão de tarefas**.
 
-Tabelas completas em [Testes-Usuários](../TP1-IHC/Testes-Usuários) (seções MAC).
+Tabelas completas em [Testes-Usuários](./TP1-IHC/Testes-Usuários) (seções MAC).
 
 ---
