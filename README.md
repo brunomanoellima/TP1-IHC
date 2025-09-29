@@ -108,10 +108,10 @@ Recomendações-chave:
 Gráficos e benchmark na pasta `Imagens/User Experience Questionnaire/UEQ/`.
 
 ## 📊 Gráficos e Benchmark
-![Gráfico Geral](./Imagens/UserExperienceQuestionnaireUEQ/GraficoGeral.png)  
+![Gráfico Geral](./Imagens/Outras/PerfilGeralUEQ.png)  
 > **Figura 2 – Perfil consolidado das 6 dimensões do UEQ.**
 
-![Benchmark por Dimensão](./Imagens/UserExperienceQuestionnaireUEQ/Benchmarkpordimensão.png)  
+![Benchmark por Dimensão](./Imagens/Outras/BenchmarkUEQ.png)  
 > **Figura 3 – Médias comparadas ao benchmark UEQ.**  
 Linhas de referência: **+1 (aceitável)**, **0 (neutro)**, **−1 (ruim)**.
 
