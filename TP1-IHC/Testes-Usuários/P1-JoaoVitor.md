@@ -22,5 +22,10 @@
 
 ---
 
-## ⚠️ Faltando
-- Respostas das perguntas abertas (3 obrigatórias).
+##❔Perguntas Abertas
+1. O que você mais gostou? Por quê?
+- Gostei da lista de produtos já na página inicial e das opções de cores e tamanhos dos aventais, isso facilita a escolha.
+2. O que mais dificultou o uso? Em que momento?
+- O que mais dificultou foi o design confuso, fundo azul poluído e falta de clareza no caminho inicial de navegação.
+3. Se pudesse mudar uma coisa, o que mudaria?
+- Eu mudaria o layout para algo moderno e limpo, com categorias bem organizadas e busca mais intuitiva.
