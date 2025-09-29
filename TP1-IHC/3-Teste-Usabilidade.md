@@ -1,9 +1,10 @@
 # 🧪 3. Teste de Usabilidade
 
 ## 🎯 Introdução
-O teste de usabilidade foi conduzido com **8 participantes** que executaram **10 tarefas representativas** do site **Pacific Northwest X-Ray Inc. (PNWX)**.  
-Foram registrados: tempo de execução, taxa de sucesso, erros cometidos, pedidos de ajuda e observações qualitativas.  
-Ao final, aplicou-se também o **System Usability Scale (SUS)** para medir a percepção geral de usabilidade.
+O teste de usabilidade foi conduzido com **8 participantes** que executaram **10 tarefas representativas** no site **Pacific Northwest X-Ray Inc. (PNWX)**.  
+O objetivo foi avaliar **eficiência, eficácia e satisfação** no uso do sistema, identificando dificuldades e falhas críticas.  
+
+📌 Os resultados detalhados de cada participante estão disponíveis na pasta [Testes-Usuarios](./Testes-Usuarios).
 
 ---
 
@@ -11,8 +12,8 @@ Ao final, aplicou-se também o **System Usability Scale (SUS)** para medir a per
 | ID  | Nome                     |
 |-----|--------------------------|
 | P1  | João Vitor               |
-| P2  | Chyntia Freitas  |
-| P3  | Josiel Santos    |
+| P2  | Chyntia Freitas Prestes  |
+| P3  | Josiel Santos Medeiro    |
 | P4  | Ana Paula                |
 | P5  | Benedita Marroca         |
 | P6  | Wamberson Pacheco        |
@@ -21,198 +22,23 @@ Ao final, aplicou-se também o **System Usability Scale (SUS)** para medir a per
 
 ---
 
-## 📝 Descrição das Tarefas
+## 📝 Tarefas Avaliadas
+As 10 tarefas aplicadas aos usuários foram:
 
-As tarefas abaixo foram definidas para representar cenários reais de uso no site **Pacific Northwest X-Ray Inc. (PNWX)**.  
-Cada participante deveria executar as 10 tarefas em sequência, enquanto eram coletados tempo, erros, pedidos de ajuda e taxa de sucesso.
-
----
-
-### 🔎 T1 – Encontrar informações de contato
-Localizar os detalhes de contato da Pacific Northwest X-Ray Inc. (telefone, e-mail ou formulário) a partir da página inicial.
-
----
-
-### 🧵 T2 – Verificar opções de tecido de cortinas de chumbo
-Na página inicial, acessar **Lead Curtains**, escolher a primeira opção e verificar quais opções de tecido estão disponíveis.
-
----
-
-### 📦 T3 – Buscar placas de mercadorias
-Usar a busca para encontrar **“X-Ray Merchant Boards”** e acessar a página correspondente.
+1. Localizar informações de contato no rodapé.  
+2. Retornar para a página inicial.  
+3. Localizar um item específico no catálogo.  
+4. Acessar informações detalhadas de um produto.  
+5. Comparar dois produtos semelhantes.  
+6. Identificar políticas de envio/garantia.  
+7. Filtrar produtos por categoria/fabricante.  
+8. Localizar acessórios compatíveis.  
+9. Acessar informações de suporte/FAQ.  
+10. Entrar em contato com a empresa via e-mail.  
 
 ---
 
-### 📐 T4 – Verificar compatibilidade de grades
-Em **Parts > Grids**, localizar informações sobre compatibilidade de **X-Ray Grids** com equipamentos específicos.
-
----
-
-### 🛠️ T5 – Navegar para ferramentas de resolução
-Em **Accessories > Phantoms**, localizar a seção **“Accreditation, Resolution, Quality, and Test/Alignment Phantoms”**.
-
----
-
-### 👓 T6 – Encontrar acessórios de proteção ocular
-Navegar até **Accessories > Lead Aprons**, localizar **Surgical Drop-Off’s / OR Aprons** e clicar em **Fast Ship!**.
-
----
-
-### 🕶️ T7 – Explorar equipamentos de darkroom
-Em **Equipment > DarkEquip**, encontrar informações sobre equipamentos de câmara escura além de **“Silver Recovery Systems”**.
-
----
-
-### 🧲 T8 – Buscar por marcadores de raio-X
-Usar a busca para **“X-Ray Markers”** e acessar a página de **Marker Accessories**.
-
----
-
-### 🚚 T9 – Verificar políticas de envio
-Localizar informações sobre prazos ou políticas de envio para qualquer produto (ex.: **“Fastest Shipping Lead Apparel”**).
-
----
-
-### 📧 T10 – Iniciar contato via e-mail
-Localizar o formulário de e-mail (**cgi-bin/e-mail**) e simular o envio de uma consulta sobre um produto (ex.: **X-Ray Grids**).
-
----
-
-
-
-# 📊 Resultados Individuais
-
----
-
-## 👤 P1 – João Vitor
-| 📝 Tarefa | ⏱️ Tempo | ✅ Resultado | 📈 Dificuldade (1–5) | ❌ Erros | 🙋 Ajuda | 🔎 Observações |
-|-----------|----------|--------------|----------------------|----------|----------|----------------|
-| T1 | 44s   | ✔ | 5 | 2 | 0 | Sem observações |
-| T2 | 50s   | ✔ | 5 | 2 | 0 | Errou o item da pesquisa |
-| T3 | 30s   | ✔ | 3 | 2 | 0 | Errou a página do item 2 vezes |
-| T4 | 60s   | ✔ | 5 | 1 | 0 | Errou mas conseguiu |
-| T5 | 54s   | ✔ | 5 | 2 | 0 | Errou a página 2 vezes |
-| T6 | 1m14s | ✘ | 5 | 3 | 0 | Errou a página 3 vezes e desistiu |
-| T7 | 25s   | ✔ | 2 | 1 | 0 | Errou mas conseguiu |
-| T8 | 50s   | ✔ | 5 | 1 | 0 | Errou mas conseguiu |
-| T9 | 44s   | ✔ | 4 | 1 | 0 | Errou mas conseguiu |
-| T10 | 19s  | ✔ | 3 | 0 | 0 | Não conseguiu realizar pois indisponível |
-
----
-
-## 👤 P2 – Chyntia Freitas Prestes
-| 📝 Tarefa | ⏱️ Tempo | ✅ Resultado | 📈 Dificuldade (1–5) | ❌ Erros | 🙋 Ajuda | 🔎 Observações |
-|-----------|----------|--------------|----------------------|----------|----------|----------------|
-| T1 | 5s   | ✔ | 1 | 0 | 0 | Sem observações |
-| T2 | 38s  | ! | 3 | 0 | 3 | Precisou de dica |
-| T3 | 28s  | ✔ | 1 | 0 | 0 | Sem observações |
-| T4 | 34s  | ✔ | 4 | 0 | 0 | Sem observações |
-| T5 | 33s  | ✔ | 5 | 0 | 0 | Sem observações |
-| T6 | 48s  | ✔ | 5 | 0 | 0 | Sem observações |
-| T7 | 24s  | ✔ | 3 | 0 | 0 | Sem observações |
-| T8 | 25s  | ✔ | 2 | 0 | 0 | Sem observações |
-| T9 | 53s  | ! | 5 | 1 | 2 | Precisou de dica |
-| T10 | 20s | ✔ | 2 | 0 | 0 | Não conseguiu realizar pois indisponível |
-
----
-
-## 👤 P3 – Josiel Santos Medeiro
-| 📝 Tarefa | ⏱️ Tempo | ✅ Resultado | 📈 Dificuldade (1–5) | ❌ Erros | 🙋 Ajuda | 🔎 Observações |
-|-----------|----------|--------------|----------------------|----------|----------|----------------|
-| T1 | 25s  | ! | 3 | 5 | 1 | Precisou de dica |
-| T2 | 2m04s| ✔ | 4 | 3 | 0 | Conseguiu |
-| T3 | 1m   | ✔ | 3 | 2 | 0 | Errou a página 2 vezes |
-| T4 | 1m05s| ✔ | 4 | 1 | 0 | Errou a página 1 vez |
-| T5 | 50s  | ✔ | 4 | 0 | 0 | Sem observações |
-| T6 | 1m06s| ✔ | 4 | 1 | 0 | Errou a página 1 vez |
-| T7 | 2m   | ✔ | 4 | 1 | 0 | Errou a página 1 vez |
-| T8 | 3m   | ! | 5 | 2 | 5 | Precisou de dica |
-| T9 | 1m   | ✔ | 3 | 1 | 0 | Errou página |
-| T10 | 1m02s| ✔ | 3 | 2 | 0 | Não conseguiu realizar pois indisponível |
-
----
-
-## 👤 P4 – Ana Paula
-| 📝 Tarefa | ⏱️ Tempo | ✅ Resultado | 📈 Dificuldade (1–5) | ❌ Erros | 🙋 Ajuda | 🔎 Observações |
-|-----------|----------|--------------|----------------------|----------|----------|----------------|
-| T1 | 48s   | ✔ | 1 | 0 | 0 | Sem dificuldades |
-| T2 | 1m00s | ✔ | 3 | 2 | 1 | Precisou de dica |
-| T3 | 15s   | ✔ | 1 | 0 | 0 | Sem dificuldades |
-| T4 | 1m44s | ✔ | 5 | 3 | 1 | Grande dificuldade |
-| T5 | 2m44s | ! | 5 | 5 | 1 | Precisou de dica |
-| T6 | 2m50s | ! | 5 | 4 | 2 | Precisou de dica |
-| T7 | 1m29s | ✔ | 3 | 2 | 0 | Pequena dificuldade |
-| T8 | 30s   | ✔ | 2 | 0 | 0 | Sem dificuldades |
-| T9 | 54s   | ✔ | 1 | 0 | 0 | Sem dificuldades |
-| T10 | 14s  | ✘ | 1 | 0 | 0 | Indisponível |
-
----
-
-## 👤 P5 – Benedita Marroca
-| 📝 Tarefa | ⏱️ Tempo | ✅ Resultado | 📈 Dificuldade (1–5) | ❌ Erros | 🙋 Ajuda | 🔎 Observações |
-|-----------|----------|--------------|----------------------|----------|----------|----------------|
-| T1 | 3s   | ✔ | 1 | 0 | 0 | Sem dificuldades |
-| T2 | 27s  | ✔ | 2 | 0 | 0 | Leve dificuldade |
-| T3 | 10s  | ✔ | 1 | 0 | 0 | Sem dificuldades |
-| T4 | 20s  | ✔ | 3 | 1 | 0 | Entrou errado |
-| T5 | 1m00s| ✔ | 3 | 6 | 1 | Precisou de ajuda |
-| T6 | 40s  | ✔ | 2 | 0 | 0 | Leve dificuldade |
-| T7 | 20s  | ✔ | 1 | 0 | 0 | Sem dificuldades |
-| T8 | 10s  | ✔ | 1 | 0 | 0 | Sem dificuldades |
-| T9 | 32s  | ✔ | 3 | 0 | 0 | Pouca dificuldade |
-| T10| 40s  | ✘ | 3 | 0 | 1 | Não concluiu |
-
----
-
-## 👤 P6 – Wamberson Pacheco
-| 📝 Tarefa | ⏱️ Tempo | ✅ Resultado | 📈 Dificuldade (1–5) | ❌ Erros | 🙋 Ajuda | 🔎 Observações |
-|-----------|----------|--------------|----------------------|----------|----------|----------------|
-| T1 | 3s   | ✔ | 1 | 0 | 0 | Sem dificuldades |
-| T2 | 1m09s| ✔ | 2 | 1 | 0 | Home escondido |
-| T3 | 40s  | ✔ | 1 | 0 | 0 | Visual confuso |
-| T4 | 36s  | ✔ | 1 | 0 | 0 | Textos longos |
-| T5 | 59s  | ✔ | 1 | 0 | 0 | Links mal destacados |
-| T6 | 3m07s| ! | 5 | 5 | 1 | Precisou de dica |
-| T7 | 2m09s| ✔ | 4 | 2 | 0 | Dificuldade visual |
-| T8 | 2m44s| ✔ | 4 | 2 | 0 | Demorou |
-| T9 | 1m29s| ! | 4 | 3 | 1 | Precisou de dica |
-| T10| 1m59s| ✘ | 5 | 2 | 0 | Página inexistente |
-
----
-
-## 👤 P7 – Sabrina Leal
-| 📝 Tarefa | ⏱️ Tempo | ✅ Resultado | 📈 Dificuldade (1–5) | ❌ Erros | 🙋 Ajuda | 🔎 Observações |
-|-----------|----------|--------------|----------------------|----------|----------|----------------|
-| T1 | 8s   | ✔ | 1 | 0 | 0 | Sem dificuldades |
-| T2 | 1m27s| ! | 2 | 0 | 1 | Precisou de dica |
-| T3 | 33s  | ✔ | 1 | 0 | 0 | Muitos textos |
-| T4 | 58s  | ✔ | 1 | 0 | 0 | Sem dificuldades |
-| T5 | 50s  | ✔ | 1 | 0 | 0 | Sem dificuldades |
-| T6 | 4m11s| ✘ | 5 | 4 | 0 | Excesso de texto |
-| T7 | 3m02s| ✔ | 4 | 2 | 0 | Precisou de dica |
-| T8 | 2m41s| ✔ | 4 | 2 | 0 | Precisou de dica |
-| T9 | 1m25s| ✔ | 3 | 2 | 0 | Tempo alto |
-| T10| 2m32s| ✘ | 5 | 2 | 1 | Não conseguiu enviar |
-
----
-
-## 👤 P8 – Maria Vitória
-| 📝 Tarefa | ⏱️ Tempo | ✅ Resultado | 📈 Dificuldade (1–5) | ❌ Erros | 🙋 Ajuda | 🔎 Observações |
-|-----------|----------|--------------|----------------------|----------|----------|----------------|
-| T1 | 3.7s | ✔ | 1 | 0 | 0 | Fácil, no rodapé |
-| T2 | 1m53s| ! | 3 | 1 | 2 | Ícone confuso, excesso info |
-| T3 | 14s  | ✔ | 1 | 0 | 0 | Fácil |
-| T4 | 21s  | ✔ | 1 | 0 | 0 | Relativamente fácil |
-| T5 | 41s  | ✔ | 2 | 0 | 0 | Demorou sem filtro |
-| T6 | 2m27s| ! | 3 | 1 | 1 | Demorou mesmo com dica |
-| T7 | 46s  | ✔ | 1 | 0 | 0 | Muitas opções |
-| T8 | 53s  | ✔ | 1 | 1 | 0 | Demorou por excesso de itens |
-| T9 | 47s  | ✔ | 1 | 0 | 0 | Encontrou facilmente |
-| T10| 1m07s| ✘ | 5 | 0 | 0 | Botão não funcionou |
-
----
-
-# 📊 Consolidação Geral (T1–T10)
+## 📊 Consolidação Geral (T1–T10)
 
 | Tarefa | ✔ Sucesso | ! Com Ajuda | ✘ Falha | ⏱️ Tempo Médio | 🔎 Observações |
 |--------|-----------|--------------|---------|----------------|----------------|
@@ -229,18 +55,30 @@ Localizar o formulário de e-mail (**cgi-bin/e-mail**) e simular o envio de uma 
 
 ---
 
-# 📈 Resultados SUS
+## 📈 Resultados SUS
+
+> Escala de 0–100 (quanto maior, melhor usabilidade).  
+> Referência: **70+ = aceitável / bom**.
+
 | Participante | SUS (0–100) |
 |--------------|-------------|
-| P6 – Wamberson | 23 |
-| P7 – Sabrina   | 29 |
-| P1–P5, P8 | Dados não registrados |
+| P1 – João Vitor            | — (pendente) |
+| P2 – Chyntia Freitas Prestes | — (pendente) |
+| P3 – Josiel Santos Medeiro | — (pendente) |
+| P4 – Ana Paula             | 25,0 |
+| P5 – Benedita Marroca      | 25,0 |
+| P6 – Wamberson Pacheco     | 22,5 |
+| P7 – Sabrina Leal          | 17,5 |
+| P8 – Maria Vitória         | 32,5 |
 
-**Média parcial:** 26  
-**Média esperada:** < 70 → Classificação: **Péssima usabilidade**
+📊 **Média parcial (5 usuários):** 24,5  
+➡️ **Muito abaixo de 70 → péssima usabilidade**.  
+👉 SUS de P1, P2 e P3 ainda precisam ser coletados para consolidar.
 
 ---
+
 ## 💬 Perguntas Abertas e Fatores de Usabilidade
+
 | ID Part. | Trecho da Resposta | Fator de Usabilidade |
 |----------|--------------------|-----------------------|
 | P1 | facilita a escolha | Eficiência |
@@ -273,13 +111,13 @@ Localizar o formulário de e-mail (**cgi-bin/e-mail**) e simular o envio de uma 
 
 ---
 
-# 🔎 Discussão
-- Dificuldades principais em **T2, T5, T6 e T8** confirmam problemas de navegação e poluição visual.  
-- **T10 (contato via e-mail)** é falha crítica, confirmando defeito C-08 da inspeção.  
-- Os resultados confirmam e reforçam as heurísticas violadas levantadas na inspeção (parte 2).
+## 🔎 Discussão
+- **T2, T5, T6 e T8** concentraram dificuldades, ligadas a excesso de texto, falta de filtros e navegação pouco clara.  
+- **T10 foi falha crítica**: confirma o defeito **C-08** identificado na inspeção (links de e-mail quebrados).  
+- O **SUS médio (24,5/100)** reforça a percepção de **péssima usabilidade**, consistente com as respostas abertas.  
 
 ---
 
-# ✅ Conclusão
-O site **PNWX** apresenta **baixa eficiência e eficácia** em tarefas comuns.  
-A taxa de sucesso foi baixa em tarefas críticas, e o SUS médio (26/100) indica percepção de **péssima usabilidade**.  
+## ✅ Conclusão
+O site **PNWX** apresenta **baixa eficiência, eficácia e satisfação** em tarefas comuns.  
+A avaliação mostra problemas graves de design, rotulagem e feedback, que prejudicam a experiência de profissionais de saúde que buscam equipamentos.  
