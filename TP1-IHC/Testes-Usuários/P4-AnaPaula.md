@@ -28,7 +28,7 @@
 2. O que mais dificultou o uso? Em que momento?
 - Os ícones serem muito juntos um do outro, as categorias dos produtos ficam em uma linha só, como se fosse um texto, não tem como saber que é um botão, nem onde começa ou acaba cada opção. Em todas as páginas.
 3. Se pudesse mudar uma coisa, o que mudaria?
--- A interface, seria mais "limpa", cores mais neutras para ficar mais harmônico;
+- A interface, seria mais "limpa", cores mais neutras para ficar mais harmônico;
 - Os botões deixaria maiores, com aparência de botão e não de texto clicável;
 - Organizaria melhor as categorias e filtros;
 - Deixaria o menu mais visível, usando fontes maiores, mais legíveis e com cores que se adequam a cor de fundo do site;
