@@ -1,4 +1,4 @@
-# 👤 Teste de Usabilidade — P2 Chyntia Freitas Prestes
+# 👤 Teste de Usabilidade — P2 Chyntia Freitas
 
 ## 📊 Resultados das Tarefas
 | Tarefa | Tempo | Resultado | Dificuldade | Erros | Ajuda | Observações |
