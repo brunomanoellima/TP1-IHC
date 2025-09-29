@@ -10,9 +10,6 @@
 - [3. Teste de Usabilidade](#-3-teste-de-usabilidade)
 - [4. Avaliação de UX (UEQ)](#-4-avaliação-de-ux-ueq)
 - [5. Avaliação de Comunicabilidade (MAC)](#-5-avaliação-de-comunicabilidade)
-- [📂 Estrutura do Repositório](#-estrutura-do-repositório)
-- [▶️ Como visualizar os resultados](#️-como-visualizar-os-resultados)
-- [👥 Equipe](#-equipe)
 
 ---
 
