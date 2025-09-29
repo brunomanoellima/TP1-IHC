@@ -47,3 +47,26 @@
 
 ---
 ---
+
+# Nélio Tobias
+## 🔹 Desafios enfrentados nas quatro avaliações
+- Conciliar a execução das etapas com a **organização do material** e a **padronização dos registros** foi desafiador.  
+- Em alguns momentos, a grande quantidade de dados coletados tornou difícil **manter a clareza na documentação**.  
+- O sistema em si, com sua **interface poluída e pouco intuitiva**, exigiu paciência extra para testes e análises.  
+- Garantir que todos os resultados ficassem bem **estruturados em markdown e pastas** demandou disciplina.  
+
+---
+
+## 🔹 Lições aprendidas sobre métodos e ferramentas
+- Compreendi a importância de **manter consistência na forma de registrar dados** para facilitar comparações e análises.  
+- O uso de ferramentas digitais (GitHub, Notion, tabelas em markdown) se mostrou essencial para **organizar o trabalho em equipe**.  
+- Percebi que métodos de avaliação distintos (SUS, UEQ, AC) são **complementares** e, juntos, oferecem uma visão robusta.  
+- Aprendi a valorizar o processo iterativo: **coletar, revisar e ajustar** sempre que necessário.  
+
+---
+
+## 🔹 Como o trabalho prático contribuiu para minhas habilidades em IHC
+- Desenvolvi maior capacidade de **analisar criticamente a usabilidade de sistemas reais**.  
+- Passei a enxergar mais claramente como **dados qualitativos e quantitativos se combinam** para revelar falhas.  
+- Aprimorei minha habilidade de **organizar relatórios técnicos claros e acessíveis** em ambientes colaborativos.  
+- Entendi melhor o papel do profissional de IHC como alguém que conecta **design, tecnologia e experiência humana**.  
