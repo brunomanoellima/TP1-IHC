@@ -31,9 +31,11 @@ Os resultados foram consolidados em **gráficos** e comparados com o **benchmark
 
 ### 📊 Gráfico Avaliações de Importância
 
-![Gráfico Avaliações de Importância ](../Imagens/Outras/RatingsUQL.png)
+![Gráfico Avaliações de Importância ](..Imagens/Outras/RatingsUQLpng)
 > **Figura 4 – Comparação das Avaliações consideradas as mais importantes.**
-- 
+- Esse gráfico classifica a importância de cada uma dessas áreas em uma escala de 0 a 8.
+- Mais Importantes: Eficiência, Transparência e Controlo são vistas como as áreas mais críticas para o sucesso.
+- Menos Importantes: Estimulação e Inovação foram classificadas como as de menor importância relativa.
 
 ---
 
