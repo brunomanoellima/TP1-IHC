@@ -22,5 +22,10 @@
 
 ---
 
-## ⚠️ Faltando
-- Respostas das perguntas abertas (3 obrigatórias).
+## ❔Perguntas Abertas
+1. O que você mais gostou? Por quê?
+- Infelizmente, a experiência como um todo não foi positiva, então não há um ponto específico que tenha se destacado de forma favorável.⁠ 
+2. O que mais dificultou o uso? Em que momento?
+- A maior dificuldade foi localizar produtos específicos devido a problemas de design visual. A combinação de tipografia pequena e uma paleta de cores inadequada comprometeu a legibilidade e o contraste, especialmente durante a navegação pelas categorias. Isso tornou o processo de busca cansativo e ineficiente, principalmente quando precisei filtrar itens ou ler descrições rapidamente.
+3. Se pudesse mudar uma coisa, o que mudaria?
+- Considerando os problemas encontrados, acredito que uma reformulação completa da interface e da experiência do usuário seria necessária.⁠
