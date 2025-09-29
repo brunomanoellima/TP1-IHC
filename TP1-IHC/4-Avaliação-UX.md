@@ -10,12 +10,25 @@ Os resultados foram consolidados em **gráficos** e comparados com o **benchmark
 ---
 
 ## 📊 Gráficos e Benchmark
-![Gráfico UEQ Consolidado](Imagens/User%20Experience%20Questionnaire/UEQ_Geral.png)
 
-> **Figura 2 – Resultados consolidados do UEQ comparados ao benchmark.**
+### ✅ Gráfico Geral Consolidado
+![Gráfico Geral](Imagens/User%20Experience%20Questionnaire/UEQ/GraficoGeral.png)  
+> **Figura 2 – Perfil consolidado das 6 dimensões do UEQ.**
 
-- O gráfico mostra os **valores médios por escala** (Atratividade, Clareza, Eficiência, etc.).  
-- As linhas de referência representam o **benchmark UEQ** (padrões de outros sistemas avaliados).  
+- Mostra a **média dos participantes (P1–P8)** em cada escala do questionário.  
+- É possível observar que todas as dimensões ficaram **abaixo do ponto neutro (0)**, indicando percepção negativa do sistema.  
+
+---
+
+### 📈 Benchmark por Dimensão
+![Benchmark por Dimensão](Imagens/User%20Experience%20Questionnaire/UEQ/Benchmark%20por%20dimensão.png)  
+> **Figura 3 – Comparação das médias do sistema com o benchmark internacional do UEQ.**
+
+- As **linhas de referência** indicam a escala de classificação:  
+  - **> +1,0** → considerado **bom/muito bom**.  
+  - **entre -0,8 e +0,8** → considerado **médio/aceitável**.  
+  - **< -0,8** → considerado **ruim/muito ruim**.  
+- Neste estudo, todas as dimensões ficaram na faixa de **ruim/muito ruim**, reforçando os problemas de usabilidade.  
 
 ---
 
