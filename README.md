@@ -5,12 +5,13 @@
 ---
 
 ## 📚 Sumário
-➡️ **Abrir documento completo desta seção**: [1. Descrição do Sistema](TP1-IHC/Testes-Usu%C3%A1rios/1-Descri%C3%A7%C3%A3o-Sistema.md)
-➡️ **Abrir documento completo desta seção**: [2. Inspeção de Usabilidade](TP1-IHC/Testes-Usu%C3%A1rios/2-Inspen%C3%A7%C3%A3o-Usabilidade.md)
-➡️ **Abrir documento completo desta seção**: [3. Teste de Usabilidade](TP1-IHC/Testes-Usu%C3%A1rios/3-Teste-Usabilidade.md)
-➡️ **Abrir documento completo desta seção**: [4. Avaliação de UX (UEQ)](TP1-IHC/Testes-Usu%C3%A1rios/4-Avalia%C3%A7%C3%A3o-UX.md)
-➡️ **Abrir documento completo desta seção**: [5. Avaliação de Comunicabilidade (MAC)](TP1-IHC/Testes-Usu%C3%A1rios/5-Avalia%C3%A7%C3%A3o-Comunicabilidade.md)
-➡️ **Abrir documento completo desta seção**: [6. Conclusões](TP1-IHC/Testes-Usu%C3%A1rios/6-Conclus%C3%B5es.md)
+- [1. Descrição do Sistema](./TP1-IHC/Testes-Usu%C3%A1rios/1-Descri%C3%A7%C3%A3o-Sistema.md)
+- [2. Inspeção de Usabilidade](./TP1-IHC/Testes-Usu%C3%A1rios/2-Inspe%C3%A7%C3%A3o-Usabilidade.md)
+- [3. Teste de Usabilidade](./TP1-IHC/Testes-Usu%C3%A1rios/3-Teste-Usabilidade.md)
+- [4. Avaliação de UX (UEQ)](./TP1-IHC/Testes-Usu%C3%A1rios/4-Avalia%C3%A7%C3%A3o-UX.md)
+- [5. Avaliação de Comunicabilidade (MAC)](./TP1-IHC/Testes-Usu%C3%A1rios/5-Avalia%C3%A7%C3%A3o-Comunicabilidade.md)
+- [6. Conclusões](./TP1-IHC/Testes-Usu%C3%A1rios/6-Conclus%C3%B5es.md)
+
 ---
 
 # 🩻 1. Descrição do Sistema – Pacific Northwest X-Ray Inc. (PNWX)
