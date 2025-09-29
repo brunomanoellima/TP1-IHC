@@ -33,14 +33,15 @@ Os resultados foram consolidados em **gráficos** e comparados com o **benchmark
 ---
 
 ## 🧩 Interpretação Contextualizada
-- **Atratividade**: [Aqui você explica se os usuários acharam o sistema atraente ou desagradável].  
-- **Clareza**: [Explicar se foi fácil ou confuso entender o sistema].  
-- **Eficiência**: [Explicar se o site pareceu rápido e prático ou lento e burocrático].  
-- **Confiabilidade**: [Se transmitiu segurança ou insegurança].  
-- **Estímulo**: [Se trouxe motivação/excitamento ou foi entediante].  
-- **Novidade**: [Se pareceu inovador ou antiquado].  
 
-👉 Cada uma dessas interpretações deve vir **diretamente da planilha UEQ consolidada** e cruzada com o que os participantes responderam.
+- **Atratividade**: Os usuários consideraram o sistema pouco atrativo, com relatos de **frustração e insatisfação**, reforçando a baixa aceitação geral.  
+- **Clareza**: Houve forte percepção de **confusão visual e dificuldade de navegação**. Muitos não souberam diferenciar botões de textos, o que indica problemas sérios de clareza.  
+- **Eficiência**: A experiência foi considerada **ineficiente e burocrática**. As tarefas exigiram esforço extra e tempo elevado, com falhas frequentes na execução.  
+- **Confiabilidade**: O sistema **não transmitiu segurança**; links quebrados, ausência de feedback e mensagens de erro dificultaram a confiança do usuário.  
+- **Estímulo**: Em vez de motivador, o sistema foi percebido como **desinteressante e cansativo**, sem engajamento positivo durante as interações.  
+- **Novidade**: O design foi avaliado como **antiquado e pouco inovador**, não trazendo sensação de modernidade ou diferenciação em relação a outros sistemas.  
+
+
 
 ---
 
@@ -61,8 +62,10 @@ Os resultados detalhados de cada participante estão disponíveis na pasta:
 
 ## ✅ Conclusão
 O UEQ reforça os achados do teste de usabilidade, indicando que:
-- [Resumo dos principais pontos positivos]  
-- [Resumo dos principais pontos negativos]  
-- [Correlação com tarefas críticas do teste de usabilidade]  
 
-Em conjunto, os resultados confirmam que o sistema **possui falhas severas de usabilidade e experiência**, principalmente em **eficiência, clareza e estímulo**, o que compromete a satisfação geral dos usuários.
+- **Pontos positivos**: Poucos aspectos foram percebidos de forma razoável, como a presença de algumas funcionalidades técnicas úteis e a possibilidade de concluir certas tarefas após esforço.  
+- **Pontos negativos**: Predominaram críticas em relação à **baixa clareza visual**, **ineficiência no fluxo de navegação**, **falta de confiabilidade** (links quebrados e ausência de feedback), além de uma **experiência pouco atrativa e desmotivadora**.  
+- **Correlação com tarefas críticas**: As maiores dificuldades do UEQ se alinham às tarefas mais problemáticas no teste de usabilidade, especialmente em **buscar informações relevantes (T2, T4)** e **realizar ações críticas como envio de e-mail ou finalizar processos (T6, T10)**.  
+
+Em conjunto, os resultados confirmam que o sistema **possui falhas severas de usabilidade e experiência**, principalmente em **eficiência, clareza e estímulo**, o que compromete a satisfação geral dos usuários.  
+
