@@ -4,7 +4,7 @@
 O teste de usabilidade foi conduzido com **8 participantes** que executaram **10 tarefas representativas** no site **Pacific Northwest X-Ray Inc. (PNWX)**.  
 O objetivo foi avaliar **eficiência, eficácia e satisfação** no uso do sistema, identificando dificuldades e falhas críticas.  
 
-📌 Os resultados detalhados de cada participante estão disponíveis na pasta [Testes-Usuarios](./Testes-Usuarios).
+📌 Os resultados detalhados de cada participante estão disponíveis na pasta [Testes-Usuarios](./TP1-IHC/Testes-Usuarios).
 
 ---
 
