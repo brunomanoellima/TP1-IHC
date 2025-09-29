@@ -25,7 +25,7 @@
 ## ❔Pergutas Abertas
 1. O que você mais gostou? Por quê?
 - Achei legal a animação que tem no inicio da página.
-2.O que mais dificultou o uso? Em que momento?
+2. O que mais dificultou o uso? Em que momento?
 - O design é horrível desse site, cores que não deixam os textos visíveis e etc...
 3. Se pudesse mudar uma coisa, o que mudaria?
 - Deixaria o layout desse site mais minimalista.
