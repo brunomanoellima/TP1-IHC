@@ -14,9 +14,13 @@
 | T9 | 44s | ✅ | 4 | 1 | 0 | Errou mas conseguiu |
 | T10 | 19s | ✅ | 3 | 0 | 0 | Não conseguiu realizar pois indisponível |
 
+---
+
 ## 📈 SUS
-❌ **Não registrado**
+- **Pontuação final:** **17,5 / 100**  
+- Classificação: **Muito ruim** (bem abaixo de 70)
+
+---
 
 ## ⚠️ Faltando
-- Cálculo/registro do SUS.
-- Respostas das perguntas abertas.
+- Respostas das perguntas abertas (3 obrigatórias).
