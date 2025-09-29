@@ -74,7 +74,6 @@ As 10 tarefas aplicadas aos usuários foram:
 
 📊 **Média parcial (5 usuários):** 24,5  
 ➡️ **Muito abaixo de 70 → péssima usabilidade**.  
-👉 SUS de P1, P2 e P3 ainda precisam ser coletados para consolidar.
 
 ---
 
