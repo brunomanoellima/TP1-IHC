@@ -13,7 +13,7 @@ O objetivo foi avaliar **eficiência, eficácia e satisfação** no uso do siste
 | ID  | Nome | 📂 Link para pasta |
 |-----|--------------------------|--------------------|
 | P1  | João Vitor | [P1 - João Vitor](./Testes-Usuários/P1-JoaoVitor.md) |
-| P2  | Chyntia Freitas | [P2 - Chyntia Freitas](./Testes-Usuários/P2-ChyntiaFreitas.md) |
+| P2  | Mildo | [P2 - Mildo Castro](./Testes-Usuários/P2-MildoCastro.md) |
 | P3  | Josiel Santos | [P3 - Josiel Santos](./Testes-Usuários/P3-JosielSantos.md) |
 | P4  | Ana Paula | [P4 - Ana Paula](./Testes-Usuários/P4-AnaPaula.md) |
 | P5  | Benedita Marroca | [P5 - Benedita Marroca](./Testes-Usuários/P5-BeneditaMarroca.md) |
@@ -64,7 +64,7 @@ As 10 tarefas aplicadas aos usuários foram:
 | Participante | SUS (0–100) |
 |--------------|-------------|
 | P1 – João Vitor            | — (pendente) |
-| P2 – Chyntia Freitas | — (pendente) |
+| P2 – Mildo Castro | — (pendente) |
 | P3 – Josiel Santos | — (pendente) |
 | P4 – Ana Paula             | 25,0 |
 | P5 – Benedita Marroca      | 25,0 |
