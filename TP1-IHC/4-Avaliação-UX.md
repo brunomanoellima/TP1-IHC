@@ -12,7 +12,7 @@ Os resultados foram consolidados em **gráficos** e comparados com o **benchmark
 ## 📊 Gráficos e Benchmark
 
 ### ✅ Gráfico Geral Consolidado
-![Gráfico Geral](../Imagens/UserExperienceQuestionnaireUEQ/GraficoGeral.png)
+![Gráfico Geral](../Imagens/Outras/PerfilGeral.png)
 > **Figura 2 – Perfil consolidado das 6 dimensões do UEQ.**
 
 - Mostra a **média dos participantes (P1–P8)** em cada escala do questionário.  
