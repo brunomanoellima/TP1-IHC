@@ -11,7 +11,7 @@ O objetivo foi avaliar **eficiência, eficácia e satisfação** no uso do siste
 ## 👥 Participantes
 
 | ID  | 📂 Link para pasta |
-|-----|--------------------------|--------------------|
+|-----|--------------------|
 | P1  | [P1](./Testes-Usuários/P1.md) |
 | P2  | [P2](./Testes-Usuários/P2.md) |
 | P3  | [P3](./Testes-Usuários/P3.md) |
