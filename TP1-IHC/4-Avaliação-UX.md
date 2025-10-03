@@ -55,14 +55,14 @@ Os resultados foram consolidados em **gráficos** e comparados com o **benchmark
 Os resultados detalhados de cada participante estão disponíveis na pasta:  
 [User Experience Questionnaire (UEQ)](../Imagens/UserExperienceQuestionnaireUEQ).
 
-- João Vitor – `P1_Joao_UEQ.jpg`  
-- Mildo Castro – `P2_Mildo_UEQ.jpg`  
-- Josiel Santos – `P3Josiel_UEQ.jpg`  
-- Ana Paula – `P4_AnaPaula_UEQ.jpg`  
-- Benedita Marroca – `P5_BeneditaMarroca_UEQ.jpg`  
-- Wamberson Pacheco – `P6_Wamberson_UEQ.jpg`  
-- Sabrina Leal – `P7_SabrinaLeal_UEQ.jpg`  
-- Maria Vitória – `P8_Maria_UEQ.jpg`  
+– [P1_UEQ](../Imagens/UserExperienceQuestionnaireUEQ/P1_UEQ.jpg)
+– [P2_UEQ](../Imagens/UserExperienceQuestionnaireUEQ/P2_UEQ.jpg)
+– [P3_UEQ](../Imagens/UserExperienceQuestionnaireUEQ/P3_UEQ.jpg)
+– [P4_UEQ](../Imagens/UserExperienceQuestionnaireUEQ/P4_UEQ.jpg)
+– [P5_UEQ](../Imagens/UserExperienceQuestionnaireUEQ/P5_UEQ.jpg) 
+– [P6_UEQ](../Imagens/UserExperienceQuestionnaireUEQ/P6_UEQ.jpg)
+– [P7_UEQ](../Imagens/UserExperienceQuestionnaireUEQ/P7_UEQ.jpg)
+– [P8_UEQ](../Imagens/UserExperienceQuestionnaireUEQ/P8_UEQ.jpg)
 
 ---
 
