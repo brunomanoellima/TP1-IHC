@@ -124,9 +124,7 @@ Linhas de referência: **+1 (aceitável)**, **0 (neutro)**, **−1 (ruim)**.
 - **Novidade (Inovação)**: baixa — visual antiquado.
 
 ## 📂 Planilhas/Imagens UEQ
-Arquivos individuais em `Imagens/User Experience Questionnaire (UEQ)/`:
-`AnaPaula_UEQ.jpg`, `BeneditaMarroca_UEQ.jpg`, `Joao_UEQ.jpg`, `Josiel_UEQ.jpg`,
-`Maria_UEQ.jpg`, `Mildo_UEQ.jpg`, `SabrinaLeal_UEQ.jpg`, `Wamberson_UEQ.jpg`.
+Arquivos individuais em [Imagens/UserExperienceQuestionnaireUEQ](./Imagens/UserExperienceQuestionnaireUEQ)
 
 ## ✅ Conclusão (UEQ)
 - **Positivo**: poucas funcionalidades técnicas foram concluídas com esforço.  
