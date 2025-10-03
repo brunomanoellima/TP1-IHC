@@ -10,16 +10,16 @@ O objetivo foi avaliar **eficiência, eficácia e satisfação** no uso do siste
 
 ## 👥 Participantes
 
-| ID  | Nome | 📂 Link para pasta |
+| ID  | 📂 Link para pasta |
 |-----|--------------------------|--------------------|
-| P1  | João Vitor | [P1 - João Vitor](./Testes-Usuários/P1-JoaoVitor.md) |
-| P2  | Mildo Castro | [P2 - Mildo Castro](./Testes-Usuários/P2-MildoCastro.md) |
-| P3  | Josiel Santos | [P3 - Josiel Santos](./Testes-Usuários/P3-JosielSantos.md) |
-| P4  | Ana Paula | [P4 - Ana Paula](./Testes-Usuários/P4-AnaPaula.md) |
-| P5  | Benedita Marroca | [P5 - Benedita Marroca](./Testes-Usuários/P5-BeneditaMarroca.md) |
-| P6  | Wamberson Pacheco | [P6 - Wamberson Pacheco](./Testes-Usuários/P6-WambersonPacheco.md) |
-| P7  | Sabrina Leal | [P7 - Sabrina Leal](./Testes-Usuários/P7-SabrinaLeal.md) |
-| P8  | Maria Vitória | [P8 - Maria Vitória](./Testes-Usuários/P8-MariaVitória.md) |
+| P1  | [P1](./Testes-Usuários/P1.md) |
+| P2  | [P2](./Testes-Usuários/P2.md) |
+| P3  | [P3](./Testes-Usuários/P3.md) |
+| P4  | [P4](./Testes-Usuários/P4.md) |
+| P5  | [P5](./Testes-Usuários/P5.md) |
+| P6  | [P6](./Testes-Usuários/P6.md) |
+| P7  | [P7](./Testes-Usuários/P7.md) |
+| P8  | [P8](./Testes-Usuários/P8.md) |
 
 ---
 
@@ -63,14 +63,14 @@ As 10 tarefas aplicadas aos usuários foram:
 
 | Participante | SUS (0–100) |
 |--------------|-------------|
-| P1 – João Vitor            | 17,5 |
-| P2 – Mildo Castro          | 30,0 |
-| P3 – Josiel Santos         | 37,5 |
-| P4 – Ana Paula             | 25,0 |
-| P5 – Benedita Marroca      | 25,0 |
-| P6 – Wamberson Pacheco     | 22,5 |
-| P7 – Sabrina Leal          | 17,5 |
-| P8 – Maria Vitória         | 32,5 |
+| P1           | 17,5 |
+| P2           | 30,0 |
+| P3           | 37,5 |
+| P4           | 25,0 |
+| P5           | 25,0 |
+| P6           | 22,5 |
+| P7           | 17,5 |
+| P8           | 32,5 |
 
 📊 **Média final (8 usuários):** 26,9  
 ➡️ **Muito abaixo de 70 → péssima usabilidade**.
